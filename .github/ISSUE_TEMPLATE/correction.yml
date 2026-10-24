@@ -1,0 +1,24 @@
+name: Correction / Korrektur
+description: Report a correction to the book or a companion resource.
+title: "Correction: "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Edition and location / Ausgabe und Fundstelle
+      description: Language, edition identifier, and page or resource path.
+      placeholder: "Deutsch, Ausgabe …, Seite …"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change? / Was sollte korrigiert werden?
+      description: Explain the issue and your proposed correction.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Example or source / Beispiel oder Quelle
+      description: Include a small example or a primary source if helpful. Remove credentials and confidential data.

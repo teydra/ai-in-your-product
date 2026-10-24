@@ -1,0 +1,13 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "assets/covers/cover-de.pdf": "38196a859598bafb03ac306d4bee471d82350a02b30a1d3cea0cf4da5217d6d9",
+    "assets/covers/cover-de.png": "159ac6cd693d6b6fcac61f92e9956f5d01ce1b4835c2f9054eb6aac5c900aa93",
+    "assets/covers/back-de.pdf": "f06e2a3e6e9b9de1d19c7c7476186e3675944113f5841728777f2eff2efa78ce",
+    "assets/covers/back-de.png": "edd8b5723c9606fa1d07d3af1628647680da8111cfa84679faea4eafb2650292",
+    "assets/covers/spine-de.pdf": "302a4bad35f39682426191f194f13b992fe6632d1012ea995536b15277d08579",
+    "assets/covers/spine-de.png": "ad527c33b0c17c13e04ddf3b3af6b7fb12b860da0db34aca97dc03eb1f7b117d",
+    "assets/covers/wrap-de.pdf": "7e425a5453aa3768b125229a07b03fa867a296f539531faa7d49ea4b57c762e1",
+    "assets/covers/wrap-de.png": "bb0ca509b2247b5573d98325fa7ee027559831497b4b9053fd0f129bec2e4c19"
+  }
+}

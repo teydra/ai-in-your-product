@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite the exact language and edition once a complete book release is available."
+type: book
+title: "AI in Your Product"
+authors:
+  - family-names: Hees
+    given-names: Stanislaus
+url: "https://github.com/teydra/ai-in-your-product"

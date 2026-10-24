@@ -1,0 +1,68 @@
+{
+  "schema_version": 2,
+  "repository_name": "ai-in-your-product",
+  "repository_url": "https://github.com/teydra/ai-in-your-product",
+  "book_id": "1",
+  "title": "AI in Your Product",
+  "titles": {
+    "de": "KI ins eigene Produkt",
+    "en": "AI in Your Product"
+  },
+  "english_title_status": "working_translation_for_repository_setup",
+  "author": "Stanislaus Hees",
+  "canonical_language": "de",
+  "method": {
+    "name": "Stani-KI-Methode",
+    "author": "Stanislaus Hees"
+  },
+  "publication_status": "public_starter_no_complete_book_release",
+  "languages": {
+    "de": {
+      "status": "in_preparation",
+      "introduction": "de/README.md",
+      "human": "de/human/README.md",
+      "ai": "de/ai/README.md",
+      "contents": "de/human/CONTENTS.md",
+      "human_pages": "de/human/pages/README.md",
+      "ai_pages": "de/ai/pages/README.md",
+      "ai_start": "de/ai/START.md",
+      "complete_human_download": null,
+      "complete_ai_download": null
+    },
+    "en": {
+      "status": "translation_planned",
+      "introduction": "en/README.md",
+      "human": "en/human/README.md",
+      "ai": "en/ai/README.md",
+      "contents": "en/human/CONTENTS.md",
+      "human_pages": "en/human/pages/README.md",
+      "ai_pages": "en/ai/pages/README.md",
+      "ai_start": "en/ai/START.md",
+      "complete_human_download": null,
+      "complete_ai_download": null
+    }
+  },
+  "published_editions": [],
+  "edition_index": "editions.json",
+  "downloads": "DOWNLOADS.md",
+  "release_index": "RELEASES.md",
+  "ai_entry": "AI_START.md",
+  "cover": "assets/covers/cover-de.png",
+  "resources": "resources/README.md",
+  "corrections": "CORRECTIONS.md",
+  "rights": "RIGHTS.md",
+  "required_complete_publication": [
+    "complete human text and every numbered human page",
+    "contents with actual page links",
+    "complete AI knowledge package and catalogue",
+    "matching language and human edition identifiers",
+    "PDF and complete offline downloads with checksums",
+    "cover and selected supplementary materials"
+  ],
+  "page_identity_fields": [
+    "book_id",
+    "language",
+    "edition_id",
+    "page"
+  ]
+}

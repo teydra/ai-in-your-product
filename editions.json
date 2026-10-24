@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "book_id": "1",
+  "editions": [],
+  "availability": [
+    {
+      "language": "de",
+      "kind": "human",
+      "status": "in_preparation",
+      "download": null,
+      "published_pages": 0
+    },
+    {
+      "language": "de",
+      "kind": "ai",
+      "status": "in_preparation",
+      "download": null,
+      "published_pages": 0
+    },
+    {
+      "language": "en",
+      "kind": "human",
+      "status": "translation_planned",
+      "download": null,
+      "published_pages": 0
+    },
+    {
+      "language": "en",
+      "kind": "ai",
+      "status": "translation_planned",
+      "download": null,
+      "published_pages": 0
+    }
+  ],
+  "note": "An empty editions list means that no complete book edition is available yet; the cover and initial resources are available separately."
+}
