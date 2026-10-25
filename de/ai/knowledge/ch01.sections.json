@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ch01/irrtum-und-wissensgrenze",
+    "title": "Zwischen gelerntem Weltwissen und dem Zustand eines Produkts unterscheiden",
+    "source_headings": [
+      "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+      "Maras erster Irrtum"
+    ],
+    "description": "Gelerntes Weltwissen vom aktuellen Zustand eines Produkts unterscheiden und den Avianca-Fall über den Mechanismus erklären."
+  },
+  {
+    "id": "ch01/training-und-modellparameter",
+    "title": "Training und Modellparameter",
+    "source_headings": [
+      "Die Sprache der Welt",
+      "Was im Training passiert"
+    ],
+    "description": "Das Trainingsprinzip kausal erklären und von Promptänderung, Inferenz und gespeichertem Produktwissen unterscheiden."
+  },
+  {
+    "id": "ch01/tokens-kontext-und-auswahl",
+    "title": "Tokens, Kontext und Auswahl",
+    "source_headings": [
+      "Wie daraus eine Antwort entsteht"
+    ],
+    "description": "Die Tokenfolge und das erfundene Hundbeispiel erklären, ohne Fortsetzungswahrscheinlichkeit mit Wahrheit oder Wörter mit Tokens gleichzusetzen."
+  },
+  {
+    "id": "ch01/ueberzeugend-falsch",
+    "title": "Erklären, warum flüssige Antworten falsch sein können",
+    "source_headings": [
+      "Warum das Modell so überzeugend danebenliegen kann"
+    ],
+    "description": "Flüssige, aber falsche Antworten aus der Fortsetzungslogik erklären und daraus Quellen, Werkzeuge und Prüfungen ableiten."
+  },
+  {
+    "id": "ch01/thinking-prompt-und-pruefbare-ergebnisse",
+    "title": "Thinking, Prompt und prüfbare Ergebnisse",
+    "source_headings": [
+      "Was Thinking hinzufügt",
+      "Was ein Prompt verändert"
+    ],
+    "description": "Zusätzliche Modellarbeit, Promptwirkung und tatsächliche Werkzeugprüfung auf die konkrete Fehlerursache beziehen."
+  },
+  {
+    "id": "ch01/was-das-produkt-liefern-muss",
+    "title": "Aus dem Modellverständnis die drei Aufgaben der Software ableiten",
+    "source_headings": [
+      "Was du jetzt über dein Produkt weißt"
+    ],
+    "description": "Aus dem Modellverständnis die drei Aufgaben der Software ableiten: Kontext, Übersetzung in Wirkung und Prüfung."
+  },
+  {
+    "id": "ch01/belege",
+    "title": "Fälle, Datensammlungen und Geschichte quellengenau wiedergeben",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Fälle, Datensammlungen und Entwicklungsgeschichte mit Quelle und Stand wiedergeben."
+  }
+]

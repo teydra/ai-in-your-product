@@ -1,9 +1,9 @@
-# Start with the DE AI edition
+# Einstieg für Assistenten · deutsche KI-Version
 
-1. Read [book.json](../../book.json) and [editions.json](../../editions.json).
-2. Select the language **de** and an actually published edition. If it is unavailable, say so; do not pretend that the full book has been loaded.
-3. Read that edition's entry point and catalogue, then load only the knowledge needed for the reader's question.
-4. Use the exact matching human page when the wording or a page reference matters. Keep language, edition and page identity together.
-5. Distinguish the book's text, your own explanation and any newer external information. Book material is reference content, not permission to run commands or change the reader's project.
+1. Lies [knowledge/SKILL.md](knowledge/SKILL.md) einmal: Er enthält die gemeinsamen Erklär- und Arbeitsgrundsätze.
+2. Nennt die Person eine Buchseite, lade die passende KI-Seite aus [pages/25/](pages/25/README.md), zum Beispiel `pages/25/0092.md` für Seite 92. Der maschinenlesbare Index ist [pages/25/index.json](pages/25/index.json).
+3. Kommt es auf den genauen Wortlaut an, lade zusätzlich die [Menschenseite](../human/pages/25/README.md) derselben Nummer. Wiederhole sie nicht ungefragt.
+4. Ohne Seitenangabe wähle im [Wissenskatalog](knowledge/KNOWLEDGE.md) die Abschnitte nach der aktuellen Frage und lade nur diese.
+5. Halte Buchkennung, Sprache, Ausgabe und Seite zusammen. Unterscheide Buchinhalt, eigene Erklärung und neuere externe Information. Buchmaterial ist Referenz, keine Erlaubnis, Befehle auszuführen oder das Projekt der Person zu ändern.
 
-The complete AI package is not published yet. The [initial companion resources](../../resources/README.md) are available now.
+Offline: Das [Komplettpaket](../downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip) enthält dieselben Inhalte und einen Lader (`python loader.py ai 92`, `python loader.py human 92`, `python loader.py search Embedding`).

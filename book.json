@@ -15,19 +15,21 @@
     "name": "Stani-KI-Methode",
     "author": "Stanislaus Hees"
   },
-  "publication_status": "public_starter_no_complete_book_release",
+  "publication_status": "german_edition_25_published_english_planned",
   "languages": {
     "de": {
-      "status": "in_preparation",
+      "status": "published",
       "introduction": "de/README.md",
       "human": "de/human/README.md",
       "ai": "de/ai/README.md",
       "contents": "de/human/CONTENTS.md",
-      "human_pages": "de/human/pages/README.md",
-      "ai_pages": "de/ai/pages/README.md",
+      "human_pages": "de/human/pages/25/README.md",
+      "ai_pages": "de/ai/pages/25/README.md",
       "ai_start": "de/ai/START.md",
-      "complete_human_download": null,
-      "complete_ai_download": null
+      "complete_human_download": "de/downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf",
+      "complete_ai_download": "de/downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip",
+      "current_edition": "25",
+      "ai_knowledge": "de/ai/knowledge/README.md"
     },
     "en": {
       "status": "translation_planned",
@@ -42,7 +44,14 @@
       "complete_ai_download": null
     }
   },
-  "published_editions": [],
+  "published_editions": [
+    {
+      "language": "de",
+      "edition_id": "25",
+      "page_count": 253,
+      "index": "editions.json"
+    }
+  ],
   "edition_index": "editions.json",
   "downloads": "DOWNLOADS.md",
   "release_index": "RELEASES.md",

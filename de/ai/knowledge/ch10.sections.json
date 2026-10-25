@@ -1,0 +1,141 @@
+[
+  {
+    "id": "ch10/verlorene-bestaetigung",
+    "title": "Fehlende Bestätigung von ausgebliebener Wirkung unterscheiden",
+    "source_headings": [
+      "Kapitel 10 — Gespeichert, aber nicht bestätigt"
+    ],
+    "description": "Nach Antwortverlust gespeicherte Wirkung und Wissensstand der Oberfläche getrennt untersuchen."
+  },
+  {
+    "id": "ch10/vorhandener-schreibpfad",
+    "title": "Den bestehenden Reservierungsweg weiterverwenden",
+    "source_headings": [
+      "Die Reservierung gehört der normalen Anwendung"
+    ],
+    "description": "Vorhandene Reservierungsfunktionen wiederverwenden und Modellvorschlag nicht als Freigabe behandeln."
+  },
+  {
+    "id": "ch10/fehler-nachstellen",
+    "title": "Antwortverlust nach dem Speichern gezielt prüfen",
+    "source_headings": [
+      "Den Abbruch gezielt nachstellen"
+    ],
+    "description": "Den Verbindungsabbruch nach dem Speichern gezielt nachstellen und tatsächliche Wirkungen zählen."
+  },
+  {
+    "id": "ch10/reconciliation",
+    "title": "Die Oberfläche mit dem belastbaren Zustand abgleichen",
+    "source_headings": [
+      "Die Oberfläche zeigt, was bekannt ist"
+    ],
+    "description": "Denselben begonnenen Vorgang wiederfinden, den Ausgang prüfen und unbekannten Status sichtbar erhalten."
+  },
+  {
+    "id": "ch10/idempotenz",
+    "title": "Einen logischen Auftrag über mehrere Übertragungen erhalten",
+    "source_headings": [
+      "Zweimal gesendet, einmal reserviert"
+    ],
+    "description": "Wiederholte Übertragungen eines logischen Auftrags gegen doppelte Speicherung absichern."
+  },
+  {
+    "id": "ch10/idempotente-werkzeuge",
+    "title": "Werkzeuge eines Agenten wiederholungsfest bauen",
+    "source_headings": [],
+    "description": "Schreibende Werkzeuge eines Agenten wiederholungsfest bauen und unklare Ausgänge ehrlich zurückmelden.",
+    "source_anchors": [
+      "Und hier kommt die KI wieder ins Spiel"
+    ]
+  },
+  {
+    "id": "ch10/gleichzeitige-reservierung",
+    "title": "Gleichzeitige Zugriffe auf den letzten Bestand absichern",
+    "source_headings": [
+      "Das letzte freie Gerät"
+    ],
+    "description": "Unterschiedliche gleichzeitige Aufträge an Bestand und Ganz-oder-gar-nicht-Regel prüfen."
+  },
+  {
+    "id": "ch10/laufender-vorschlag",
+    "title": "Laufende und verspätete Vorschläge richtig zuordnen",
+    "source_headings": [
+      "Warten auf einen Vorschlag"
+    ],
+    "description": "Laufstatus, vollständige Ausgabe und Zuordnung verspäteter Antworten zur richtigen Eingabe sichern."
+  },
+  {
+    "id": "ch10/hintergrundauftrag",
+    "title": "Dauerhafte Arbeit nur bei tatsächlichem Bedarf einrichten",
+    "source_headings": [
+      "Arbeit im Hintergrund und Abbrechen"
+    ],
+    "description": "Dauerhafte Hintergrundarbeit nur bei Bedarf mit Quellfassung und überprüfbarem Arbeitsstand einrichten."
+  },
+  {
+    "id": "ch10/abbrechen",
+    "title": "Abbruch über seine sichtbare und gespeicherte Wirkung definieren",
+    "source_headings": [],
+    "description": "Abbruch, Schließen und Stornierung nach ihrer tatsächlichen Wirkung unterscheiden.",
+    "source_anchors": [
+      "Klickt Mara bei einem Vorschlag auf „Abbrechen“"
+    ]
+  },
+  {
+    "id": "ch10/wiederholungen",
+    "title": "Wiederholungen nach Fehlerart und Wirkung begrenzen",
+    "source_headings": [
+      "Wenn zu viele Anfragen kommen"
+    ],
+    "description": "Wiederholungen nach Fehlerklasse, zulässiger Wirkung und begrenztem Aufwand gestalten."
+  },
+  {
+    "id": "ch10/laufzeit-und-kosten",
+    "title": "Aufwand an den tatsächlich ausgeführten Schritten messen",
+    "source_headings": [
+      "Langsam und teuer sind noch keine Diagnosen"
+    ],
+    "description": "Gesamten benutzbaren Weg messen, Kosten schätzen oder belegen und Änderungen gegen Qualität prüfen."
+  },
+  {
+    "id": "ch10/ausfallweg",
+    "title": "Das Produkt ohne die zusätzliche KI benutzbar halten",
+    "source_headings": [
+      "Wenn die KI ausfällt"
+    ],
+    "description": "Den vorhandenen manuellen Produktweg bei Modellausfall tatsächlich benutzbar halten."
+  },
+  {
+    "id": "ch10/aenderungsstand",
+    "title": "Verhaltensänderungen einer verwendeten Fassung zuordnen",
+    "source_headings": [
+      "Änderungen nachvollziehbar einführen"
+    ],
+    "description": "Verhaltensänderungen einer Konfiguration zuordnen und Rückkehr ohne Datenverlust vorbereiten."
+  },
+  {
+    "id": "ch10/schrittweise-einfuehren",
+    "title": "Änderungen schrittweise und umkehrbar einführen",
+    "source_headings": [],
+    "description": "Änderungen an KI-Funktionen nachvollziehbar, schrittweise und mit passenden Rückwegen einführen.",
+    "source_anchors": [
+      "In den Tagen vor dem 1. August 2012"
+    ]
+  },
+  {
+    "id": "ch10/transfer",
+    "title": "Die Wirkungskette auf ein anderes Produkt übertragen",
+    "source_headings": [
+      "Was Leihregal jetzt kann"
+    ],
+    "description": "Die Trennung von Auftrag, Wirkung und Rückmeldung auf das nächste konkrete Produkt übertragen."
+  },
+  {
+    "id": "ch10/belege",
+    "title": "Technische Garantien am eingesetzten System prüfen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Technische Sachquellen vom Nachweis des konstruierten Lehrfalls und einer echten Produktprüfung unterscheiden."
+  }
+]

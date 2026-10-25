@@ -1,0 +1,109 @@
+[
+  {
+    "id": "front/orientierung",
+    "title": "Einen passenden Einstieg finden",
+    "source_headings": [
+      "KI ins eigene Produkt",
+      "Inhalt"
+    ],
+    "description": "Das passende Thema finden und Menschenfassung, KI-Wissen und tatsächliche Fähigkeiten auseinanderhalten."
+  },
+  {
+    "id": "front/quellen",
+    "title": "Buchquelle und technische Belege einordnen",
+    "source_headings": [
+      "Impressum"
+    ],
+    "description": "Herkunft, technische Belege, Beispieldaten und Publikationsstand bei konkretem Bedarf einordnen."
+  },
+  {
+    "id": "front/fragen-und-laden",
+    "title": "Eine konkrete Buchfrage begleiten",
+    "source_headings": [
+      "Lesen. Fragen. Verstehen."
+    ],
+    "description": "Markierung und Frage angemessen begleiten; exaktes Vorlesen und zusätzliche Erklärung unterscheiden."
+  },
+  {
+    "id": "front/prolog-das-falsche-bild",
+    "title": "Bruchstückhafte Erklärungen erkennen und vermeiden",
+    "source_headings": [
+      "Prolog — Ein Jahr lang das falsche Bild"
+    ],
+    "description": "Erklären, warum ein isolierter JSON-Ausschnitt ein falsches Bild erzeugt, und selbst Herkunft, Richtung, Vollständigkeit und Wirkung mitliefern."
+  },
+  {
+    "id": "front/prolog-aufgabenlaenge",
+    "title": "Die Entwicklung der Aufgabenlänge korrekt einordnen",
+    "source_headings": [
+      "Drei Sekunden"
+    ],
+    "description": "METRs Zeithorizonte mit Messgröße, Stand, Unsicherheit und Grenzen der Fortschreibung erklären, ohne Hype oder Abwiegeln."
+  },
+  {
+    "id": "front/prolog-verbreitung-und-verantwortung",
+    "title": "Verbreitung, Produktivität und Verantwortung nüchtern erklären",
+    "source_headings": [
+      "Menschen und Firmen ziehen mit",
+      "Warum es fahrlässig wäre, das nicht zu verstehen"
+    ],
+    "description": "Nutzungszahlen und die METR-Produktivitätsstudie mit ihren Grenzen erklären und daraus Verantwortung statt Angst ableiten."
+  },
+  {
+    "id": "front/prolog-drei-saetze",
+    "title": "Einwände gegen das Lernen ernst nehmen",
+    "source_headings": [
+      "Drei Sätze, die dich aufhalten werden"
+    ],
+    "description": "Auf typische Einwände gegen das Lernen mit dem Unterschied zwischen Lesen und Schreiben und mit stabilen Prinzipien antworten."
+  },
+  {
+    "id": "front/prolog-lehrfall",
+    "title": "Erfundene Lehrfälle und belegte Fälle auseinanderhalten",
+    "source_headings": [
+      "Mara"
+    ],
+    "description": "Mara und Leihregal als erfundenen Lehrfall, die Kapitelauftakte als belegte reale Fälle behandeln."
+  },
+  {
+    "id": "front/gedanken-uebertragen",
+    "title": "Ein Wissensthema auf das eigene Produkt übertragen",
+    "source_headings": [
+      "Vom Prototyp zum Produkt"
+    ],
+    "description": "Den Unterschied zwischen Modellvorführung und brauchbarem Produkt über einen vollständigen Nutzerweg erklären."
+  },
+  {
+    "id": "front/moeglichkeiten-und-rueckkopplung",
+    "title": "Möglichkeiten bereitstellen und aus Ergebnissen weiterarbeiten",
+    "source_headings": [
+      "Die Stani-KI-Methode"
+    ],
+    "description": "Offene Fähigkeiten und Rückkopplung am tatsächlichen Arbeitsstand erklären und auf andere Produkte übertragen."
+  },
+  {
+    "id": "front/epilog-den-brief-lesen",
+    "title": "Einen vollständigen Anfragekörper gemeinsam lesen",
+    "source_headings": [
+      "Epilog — Der Brief, den du jetzt lesen kannst"
+    ],
+    "description": "Den Epilog-Request mit Werkzeugdefinition gemeinsam lesen, das Fehlende benennen und das Gesamtbild der Person prüfen."
+  },
+  {
+    "id": "front/epilog-was-bleibt",
+    "title": "Was sich ändern wird und was bleibt",
+    "source_headings": [
+      "Die Kurve läuft weiter",
+      "Zum Schluss"
+    ],
+    "description": "Veränderliches von Bleibendem trennen und die Arbeitsteilung der Stani-KI-Methode auf die weitere Arbeit übertragen."
+  },
+  {
+    "id": "front/belege",
+    "title": "Belege der Rahmentexte zeitlich einordnen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Belege der Rahmentexte mit Stand wiedergeben und eigene Rechnungen von Quellenangaben trennen."
+  }
+]

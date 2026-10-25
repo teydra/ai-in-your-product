@@ -2,17 +2,17 @@
 
 **Wie Software mit KI Aufgaben übernimmt.**
 
-Stanislaus Hees · Mit der Stani-KI-Methode
+Stanislaus Hees · Mit der Stani-KI-Methode · Ausgabe 25 · 253 Seiten
 
-Du hast mit KI schon etwas gebaut und möchtest verstehen, was dabei eigentlich passiert? Dieses Buch erklärt die Zusammenhänge, die du brauchst, um KI sinnvoll in die eigene Software einzubauen: Informationen, Werkzeuge, Zustand und die Ergebnisse ausgeführter Schritte.
+Du hast mit KI schon etwas gebaut und möchtest verstehen, was dabei eigentlich passiert? Dieses Buch erklärt die Zusammenhänge, die du brauchst, um KI sinnvoll in die eigene Software einzubauen: was ein Sprachmodell kann und was nicht, wie Software mit ihm spricht, wie aus einem Chat ein Agent wird, woher das Modell sein Wissen bekommt, wie man prüft, ob es gute Arbeit leistet, und was passiert, wenn echte Menschen das Ergebnis benutzen.
 
 Die KI kann den nächsten Schritt wählen. Deine Software stellt die Fähigkeiten und den tatsächlichen Handlungsspielraum bereit. An Beispielen zeigt das Buch, wie daraus ein funktionierendes Produkt wird.
 
 ## Zwei Zugänge
 
-- [Menschenversion](human/README.md): Erklärungen, Beispiele, Inhaltsverzeichnis, alle Buchseiten und Buchdownload.
-- [KI-Version](ai/README.md): strukturierter Einstieg, Inhaltskatalog und passendes Wissen für deinen Assistenten.
+- [Menschenversion](human/README.md): [Inhaltsverzeichnis](human/CONTENTS.md), [alle Seiten](human/pages/25/README.md) und das [PDF](downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf).
+- [KI-Version](ai/README.md): Einstieg, Wissenskatalog und zu jeder Buchseite das passende Wissen für deinen Assistenten.
 
-Die vollständigen Buchpakete sind in Vorbereitung. [Downloads und Verfügbarkeit](../DOWNLOADS.md) unterscheiden bereits vorhandene Dateien und geplante Ausgaben. Die [Inhaltsvorschau](human/CONTENTS.md), das [gewählte Cover](../assets/covers/README.md) und erste [Zusatzmaterialien](../resources/README.md) sind bereits vorhanden.
+Alles zusammen zum Herunterladen: [Menschen- und KI-Paket](downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip). Prüfsummen stehen unter [Downloads](../DOWNLOADS.md). Das [Cover](../assets/covers/README.md) und [Zusatzmaterialien](../resources/README.md) liegen daneben.
 
 [English](../en/README.md) · [Projektübersicht](../README.md)

@@ -1,7 +1,11 @@
-# AI page references
+# KI-Seiten
 
-Language: **de**. Edition type: **ai**.
+Sprache: **de**. Fassung: **KI-Version**.
 
-This directory will hold every page of a published edition under its immutable edition identifier, together with an index and explicit links between human pages and their AI references. No numbered pages are published yet. The current list of real editions is [editions.json](../../../editions.json).
+| Ausgabe | Seiten | Index |
+| --- | ---: | --- |
+| [25](25/README.md) | 253 | [index.json](25/index.json) |
 
-[Back to the edition](../README.md)
+Jede KI-Seite gehört zur Menschenseite mit derselben Nummer in derselben Ausgabe. Ihr Inhalt stammt aus dem [Wissenskatalog](../knowledge/KNOWLEDGE.md) und wurde gegen den gesetzten Seitentext zugeordnet.
+
+[KI-Version](../README.md)

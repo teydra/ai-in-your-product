@@ -1,0 +1,139 @@
+[
+  {
+    "id": "ch08/quelle-in-reichweite",
+    "title": "Erklären, warum eine erreichbare Quelle noch keine verwendete Quelle ist",
+    "source_headings": [
+      "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat"
+    ],
+    "description": "Eine erreichbare Quelle von einer im Kontext verwendeten unterscheiden und die Leitfrage Wissen oder Erreichbarkeit anwenden."
+  },
+  {
+    "id": "ch08/fehlende-grundlage",
+    "title": "Die Behauptung bis zu ihrer tatsächlichen Grundlage verfolgen",
+    "source_headings": [
+      "Woher kommt der Regen?"
+    ],
+    "description": "Bedarfsangabe und belegte Geräteeigenschaft trennen; eine fehlende Grundlage nicht mit Textkosmetik reparieren."
+  },
+  {
+    "id": "ch08/direkte-anleitung",
+    "title": "Eine bekannte Quelle direkt lesen",
+    "source_headings": [
+      "Die richtige Anleitung bereitstellen"
+    ],
+    "description": "Eine bekannte Anleitung direkt lesen und Zugriff, Fassung, Extraktion und fehlende Angabe unterscheiden."
+  },
+  {
+    "id": "ch08/unbekannt-ist-ein-ergebnis",
+    "title": "„Unbekannt“ als vollwertiges Ergebnis behandeln",
+    "source_headings": [
+      "Unbekannt ist nicht dasselbe wie ungeeignet"
+    ],
+    "description": "„Unbekannt“ als vollwertiges Ergebnis ausgeben, Quellen dem richtigen Gerät zuordnen und Widersprüche sichtbar halten."
+  },
+  {
+    "id": "ch08/groesserer-bestand",
+    "title": "Den Informationsumfang vor der Suchtechnik bestimmen",
+    "source_headings": [
+      "Der Katalog wird größer"
+    ],
+    "description": "Den nötigen Kontextumfang bestimmen und vorhandene Beziehungen sowie einfache Suchwege zuerst prüfen."
+  },
+  {
+    "id": "ch08/suchluecke",
+    "title": "Die Lücke zwischen Alltagswunsch und Katalogbezeichnung erkennen",
+    "source_headings": [
+      "Wenn der gesuchte Name fehlt"
+    ],
+    "description": "Die Lücke zwischen Alltagswunsch und Katalogbezeichnung am Suchfehler und seinem Gegenfall erklären."
+  },
+  {
+    "id": "ch08/embedding",
+    "title": "Erklären, was die Zahlen leisten und was nicht",
+    "source_headings": [
+      "Was ein Embedding liefert"
+    ],
+    "description": "Embedding, Originaltext und Ähnlichkeit als verschiedene Gegenstände erklären, ohne Zahlen als Wahrheitsbeleg zu verwenden."
+  },
+  {
+    "id": "ch08/vorbereiten-und-suchen",
+    "title": "Vorbereitung und einzelne Suchanfrage als zwei Wege erklären",
+    "source_headings": [
+      "Vom Vorbereiten zum Treffer"
+    ],
+    "description": "Vorbereitung, Anfrage-Embedding, Vergleich und Nachladen verbinden; Quellfassung und Modellkompatibilität sichern."
+  },
+  {
+    "id": "ch08/exakte-daten",
+    "title": "Exakte Auswahl, Ähnlichkeit und aktuelle Zustände passend kombinieren",
+    "source_headings": [
+      "Eindeutige Angaben bleiben eindeutig"
+    ],
+    "description": "Exakte Daten, semantische Treffer und zugängliche Suchräume passend kombinieren."
+  },
+  {
+    "id": "ch08/ausschnitt",
+    "title": "Einen Suchtreffer mit seiner Einschränkung lesbar halten",
+    "source_headings": [
+      "Eine Fundstelle muss ihre Einschränkung behalten"
+    ],
+    "description": "Bedeutung und Einschränkungen beim Aufteilen und Nachladen von Dokumenten erhalten."
+  },
+  {
+    "id": "ch08/rag-und-quellen",
+    "title": "Abruf, Generierung und Aussagebeleg getrennt anschließen",
+    "source_headings": [
+      "Aus abgerufenen Informationen werden Vorschläge"
+    ],
+    "description": "Abruf und Generierung mit nachprüfbaren Aussage- und Quellenbezügen anschließen."
+  },
+  {
+    "id": "ch08/handbuch-ist-kein-befehl",
+    "title": "Geladene Dokumente als Daten behandeln und Prompt Injection begrenzen",
+    "source_headings": [
+      "Ein Handbuch ist kein Befehl"
+    ],
+    "description": "Geladene Dokumente als Daten behandeln und Prompt Injection über Befugnisse statt Filter begrenzen."
+  },
+  {
+    "id": "ch08/verfuegbarkeit",
+    "title": "Eignung und Verfügbarkeit zeitlich unterscheiden",
+    "source_headings": [
+      "Passend heißt noch nicht verfügbar"
+    ],
+    "description": "Fachliche Eignung von zeitabhängiger Verfügbarkeit und verbindlicher Reservierung unterscheiden."
+  },
+  {
+    "id": "ch08/gezielte-faehigkeiten",
+    "title": "Zusätzliche Fähigkeiten nach der tatsächlichen Lücke wählen",
+    "source_headings": [
+      "Wann eine weitere Fähigkeit dazukommt"
+    ],
+    "description": "Reranking, Skills oder Lesewerkzeuge nur zur tatsächlich beobachteten Lücke ergänzen."
+  },
+  {
+    "id": "ch08/kandidaten-neu-ordnen",
+    "title": "Suchkandidaten gezielt neu ordnen",
+    "source_headings": [],
+    "description": "Einen Reranker nur für gefundene Kandidaten einsetzen, Indizes korrekt auflösen und die Reihenfolge an bekannten Fällen prüfen.",
+    "source_anchors": [
+      "Findet die Suche den richtigen Abschnitt einer Anleitung"
+    ]
+  },
+  {
+    "id": "ch08/diagnose-und-transfer",
+    "title": "Die nächste Änderung aus dem beobachteten Informationsweg ableiten",
+    "source_headings": [
+      "Den nächsten Umbau am Fehler festmachen"
+    ],
+    "description": "Die erste fehlende Informationsvoraussetzung identifizieren und an wiederholbaren Fällen weiterarbeiten."
+  },
+  {
+    "id": "ch08/belege",
+    "title": "Suchquellen nicht als Nachweis der Beispielqualität verwenden",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Technische Sachquellen vom Nachweis des konstruierten Lehrfalls und einer echten Produktprüfung unterscheiden."
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ch09/tests-finden-was-man-prueft",
+    "title": "Erklären, warum gute Testzahlen ein Problem übersehen können",
+    "source_headings": [
+      "Kapitel 9 — Ein gelungener Versuch beweist gar nichts"
+    ],
+    "description": "Den GPT-4o-Fall nutzen, um zu zeigen, dass Tests nur finden, was sie prüfen, und aus Einzelerfolgen keine Qualität folgt."
+  },
+  {
+    "id": "ch09/vergleichsfrage",
+    "title": "Eine Verbesserung als prüfbare Behauptung formulieren",
+    "source_headings": [
+      "Vier Fälle, vier Erfolge"
+    ],
+    "description": "Einen überzeugenden Eindruck in eine konkrete überprüfbare Verbesserungsbehauptung übersetzen."
+  },
+  {
+    "id": "ch09/faelle",
+    "title": "Aus Nutzeranforderungen passende Prüffälle ableiten",
+    "source_headings": [
+      "Aus den bisherigen Fehlern wird eine Sammlung"
+    ],
+    "description": "Prüffälle aus echten Anforderungen sowie normalen Situationen und Gegenfällen ableiten."
+  },
+  {
+    "id": "ch09/ausgangszustand",
+    "title": "Einen Versuch wiederholbar vorbereiten",
+    "source_headings": [
+      "Derselbe Ausgangszustand"
+    ],
+    "description": "Wiederholbare Eingaben, Quellenfassungen, Zeit- und Speicherzustände für einen fairen Vergleich vorbereiten."
+  },
+  {
+    "id": "ch09/fehlerort",
+    "title": "Den ersten verlorenen Zusammenhang in der Ablaufspur finden",
+    "source_headings": [
+      "Wo geht die richtige Information verloren?"
+    ],
+    "description": "Die erste Abweichung in einer zusammengehörigen Ablaufspur ohne erfundene Modellgedanken finden."
+  },
+  {
+    "id": "ch09/ursachengerechte-aenderung",
+    "title": "Den Auswahlauftrag nur bei passendem Befund verändern",
+    "source_headings": [
+      "Die Ursache ändern, nicht das Symptom"
+    ],
+    "description": "Eine Promptänderung nur aus einem dazu passenden Befund begründen und gegen ursprüngliche Erwartungen prüfen."
+  },
+  {
+    "id": "ch09/baseline",
+    "title": "Ausgangsstand und Kandidat fair vergleichen",
+    "source_headings": [
+      "Vorher und nachher bekommen dieselbe Aufgabe"
+    ],
+    "description": "Ausgangsstand und Kandidat bei dokumentierten Bedingungen und vollständigen Wiederholungen vergleichen."
+  },
+  {
+    "id": "ch09/bedeutung-statt-wortlaut",
+    "title": "Inhaltliche Anforderungen von erlaubter sprachlicher Variation trennen",
+    "source_headings": [
+      "Richtiger Inhalt statt derselbe Satz"
+    ],
+    "description": "Inhaltliche Anforderungen mit erlaubten Alternativen prüfen, exakte Werte dagegen unverändert erhalten."
+  },
+  {
+    "id": "ch09/softwaregrenzen",
+    "title": "Harte Softwareverträge ohne zufälligen Modellfehler testen",
+    "source_headings": [
+      "Was normale Software zuverlässig prüfen kann"
+    ],
+    "description": "Ungültige Modellausgaben gezielt einspeisen und harte Softwaregrenzen am tatsächlichen Zustand testen."
+  },
+  {
+    "id": "ch09/teilversuche",
+    "title": "Suche, Auswahl und ganzen Produktweg getrennt beurteilen",
+    "source_headings": [
+      "Teile einzeln prüfen, dann den ganzen Weg"
+    ],
+    "description": "Suche, Generierung mit festem Kontext und vollständige Oberfläche als getrennte Prüfungen verbinden."
+  },
+  {
+    "id": "ch09/urteilspruefung",
+    "title": "Fachliche Bewertung mit überprüfbaren Kriterien unterstützen",
+    "source_headings": [
+      "Wenn es ein Urteil braucht"
+    ],
+    "description": "Fachliche und modellgestützte Bewertungen mit Quellen, klaren Kriterien und offenem Ausgang absichern."
+  },
+  {
+    "id": "ch09/kennzahl-als-ziel",
+    "title": "Kennzahlen als Hinweise verwenden, nicht als Ziel",
+    "source_headings": [],
+    "description": "Kennzahlen als Hinweise statt als Ziel verwenden und mehrere Kriterien getrennt betrachten.",
+    "source_anchors": [
+      "Wenn die Kennzahl zum Ziel wird"
+    ]
+  },
+  {
+    "id": "ch09/unverbrauchte-faelle",
+    "title": "Entwicklungsfälle und unabhängigen Vergleich auseinanderhalten",
+    "source_headings": [
+      "Bisher unbekannte Fälle"
+    ],
+    "description": "Entwicklungsfälle von noch unbenutzten Prüffällen nach ihrer tatsächlichen Verwendung trennen."
+  },
+  {
+    "id": "ch09/abwaegung",
+    "title": "Verbesserungen und neue Fehler gemeinsam sichtbar machen",
+    "source_headings": [
+      "Eine Verbesserung kann einen anderen Fehler verdecken"
+    ],
+    "description": "Gewinne und neue Fehlertypen gemeinsam statt nur über eine Gesamtnote beurteilen."
+  },
+  {
+    "id": "ch09/weiterarbeiten",
+    "title": "Aus dem Vergleich einen präzisen nächsten Bauauftrag machen",
+    "source_headings": [
+      "Für dein eigenes Produkt"
+    ],
+    "description": "Aus belegten Vergleichsergebnissen die nächste passende Verbesserung des eigenen Produkts ableiten."
+  },
+  {
+    "id": "ch09/belege",
+    "title": "Prüfmethoden und konkrete Ergebnisse getrennt belegen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Technische Sachquellen vom Nachweis des konstruierten Lehrfalls und einer echten Produktprüfung unterscheiden."
+  }
+]

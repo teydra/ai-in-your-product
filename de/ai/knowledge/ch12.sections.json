@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ch12/sperre-oder-warnung",
+    "title": "Sperren und Warnungen bewusst unterscheiden",
+    "source_headings": [
+      "Kapitel 12 — Wenn die KI die Welt anfasst"
+    ],
+    "description": "Sperren und Warnungen als bewusste Entscheidung unterscheiden und physische Grenzen nicht in Prompts verlagern."
+  },
+  {
+    "id": "ch12/angekuendigt-ist-nicht-ausgefuehrt",
+    "title": "Angekündigte Handlungen von ausführbaren Fähigkeiten trennen",
+    "source_headings": [
+      "Kann Leihregal die Fächer öffnen?"
+    ],
+    "description": "Angekündigte Handlungen von angebotenen Fähigkeiten trennen und Erfolge nur mit Nachweis der ausführenden Software melden."
+  },
+  {
+    "id": "ch12/keine-ki-beim-oeffnen",
+    "title": "Erkennen, wann eine Entscheidung keine KI braucht",
+    "source_headings": [
+      "Die beste KI-Entscheidung beim Öffnen eines Fachs"
+    ],
+    "description": "Erkennen, wann eine Entscheidung gespeicherter Zustand ist und keine KI braucht, und wo Interpretation trotzdem hilft."
+  },
+  {
+    "id": "ch12/nachweisstufen",
+    "title": "Den Nachweisstand einer physischen Wirkung anzeigen",
+    "source_headings": [
+      "Was nach einem Befehl wirklich bekannt ist"
+    ],
+    "description": "Die Anzeige an den tatsächlich vorliegenden Nachweis einer physischen Wirkung binden und Wiederholungen nach Antwortverlust klären."
+  },
+  {
+    "id": "ch12/messwert-und-ursache",
+    "title": "Messwerte, Beobachtungen und Erklärungen auseinanderhalten",
+    "source_headings": [
+      "Ein Messwert ist noch keine Ursache"
+    ],
+    "description": "Messwerte, Beobachtungen und Erklärungen trennen und automatische Wirkungen nicht auf einen einzigen ungeprüften Wert stützen."
+  },
+  {
+    "id": "ch12/harte-grenzen-in-der-steuerung",
+    "title": "Harte Grenzen in Steuerung und Runtime umsetzen",
+    "source_headings": [
+      "Harte Grenzen gehören in die Steuerung"
+    ],
+    "description": "Harte Grenzen in Steuerung und Runtime umsetzen, unmittelbar vor der Wirkung erneut prüfen und die Fälle des Bauauftrags testen."
+  },
+  {
+    "id": "ch12/dieselben-fragen-anderes-produkt",
+    "title": "Die Fragen des Buchs auf ein anderes Produkt übertragen",
+    "source_headings": [
+      "Dieselben Fragen, ein anderes Produkt"
+    ],
+    "description": "Die Fragen des Buchs an einer Drohnen-Dachinspektion auf ein anderes Produkt übertragen, ohne Techniken blind mitzunehmen."
+  },
+  {
+    "id": "ch12/eigener-naechster-schritt",
+    "title": "Mit dem vorhandenen Projekt der Person weiterarbeiten",
+    "source_headings": [
+      "Der nächste Schritt gehört deinem Produkt"
+    ],
+    "description": "Den nächsten Bauabschnitt am vorhandenen Projekt und dem bereits erteilten Auftrag der Person ausrichten."
+  },
+  {
+    "id": "ch12/belege",
+    "title": "Fälle zu physischen Systemen vorsichtig belegen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Fälle zu physischen Systemen vorsichtig belegen und Lehrfälle von realer Hardware trennen."
+  }
+]

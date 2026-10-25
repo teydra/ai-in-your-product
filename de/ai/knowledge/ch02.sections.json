@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ch02/bruchstuecke-und-gesamtbild",
+    "title": "JSON-Blöcke als Daten mit Herkunft, Richtung und Wirkung erklären",
+    "source_headings": [
+      "Kapitel 2 — Der Brief an die Maschine"
+    ],
+    "description": "JSON-Blöcke als Daten mit Herkunft, Richtung und Wirkung erklären und Mischformen aus mehreren Dokumentationen vermeiden."
+  },
+  {
+    "id": "ch02/json-und-den-passenden-api-vertrag-erklaeren",
+    "title": "JSON und den passenden API-Vertrag erklären",
+    "source_headings": [
+      "Was eine API ist"
+    ],
+    "description": "JSON nach Sender und Empfänger einordnen und Anthropic-, Responses- und Gemini-Verträge sauber trennen."
+  },
+  {
+    "id": "ch02/von-der-wirkung-ausgehen",
+    "title": "Eine API-Erklärung beim sichtbaren Ergebnis beginnen",
+    "source_headings": [
+      "Zuerst das, was man sieht"
+    ],
+    "description": "Eine API-Erklärung beim sichtbaren Ergebnis im Produkt beginnen und jedem Feld einen Ort im Ablauf geben."
+  },
+  {
+    "id": "ch02/vom-anfragekoerper-zum-http-aufruf",
+    "title": "Vom Anfragekörper zum HTTP-Aufruf",
+    "source_headings": [
+      "Der Brief, Zeile für Zeile"
+    ],
+    "description": "Den vollständigen Körper mit HTTP-Ziel, Headern, Modellzugang und begrenzten Ausgabeoptionen verbinden."
+  },
+  {
+    "id": "ch02/antwortbloecke-abschluss-und-verbrauch",
+    "title": "Antwortblöcke, Abschluss und Verbrauch",
+    "source_headings": [
+      "Die Antwort ist auch ein Brief"
+    ],
+    "description": "Typisierte Antwortinhalte, Fortsetzungszustand, Kennungen und reale Verbrauchsangaben getrennt verarbeiten."
+  },
+  {
+    "id": "ch02/json-lesen-ohne-auswendiglernen",
+    "title": "JSON so erklären, dass Lesen genügt",
+    "source_headings": [
+      "JSON in fünf Minuten"
+    ],
+    "description": "JSON über sechs Bausteine, Pfade und die Trennung von eigenen und Anbieterfeldern erklären, ohne Syntaxdrill."
+  },
+  {
+    "id": "ch02/drei-fragen-an-jedes-json",
+    "title": "Die drei Lesefragen für jeden Datenblock anwenden",
+    "source_headings": [
+      "Drei Fragen für jedes JSON"
+    ],
+    "description": "Unbekannte Datenblöcke mit den drei Lesefragen gliedern: Formatbesitzer, Strecke, Wirkung jedes Felds."
+  },
+  {
+    "id": "ch02/dialekte-und-versionen",
+    "title": "Anbieterdialekte und Versionswechsel sauber behandeln",
+    "source_headings": [
+      "Gleicher Brief, anderer Dialekt"
+    ],
+    "description": "Anbieterdialekte nicht mischen, API-Versionen als Vertragsbestandteil prüfen und kleine Adapter statt Sammelobjekte bauen."
+  },
+  {
+    "id": "ch02/vier-briefe",
+    "title": "Die Briefe eines Produkts auseinanderhalten",
+    "source_headings": [
+      "Vier Briefe in einem Produkt"
+    ],
+    "description": "Die Briefe zwischen Browser, Server und Anbieter auseinanderhalten und Fehler der richtigen Strecke zuordnen."
+  },
+  {
+    "id": "ch02/darstellung-streaming-und-ausgabevertraege",
+    "title": "Darstellung, Streaming und Ausgabeverträge",
+    "source_headings": [
+      "Was du einstellen kannst"
+    ],
+    "description": "Aus Anbieterereignissen eine brauchbare Oberfläche und aus fachlichen Ergebnissen passende Ausgabeverträge gestalten."
+  },
+  {
+    "id": "ch02/ki-zum-richtigen-erklaeren-bringen",
+    "title": "Auf einen Erklärauftrag mit vollständigem Bild antworten",
+    "source_headings": [
+      "So bringst du eine KI dazu, es dir richtig zu erklären"
+    ],
+    "description": "Einen Erklärauftrag mit Dokumentationsprüfung, vollständigen Briefen, Formatkennzeichnung und offener Unsicherheit beantworten."
+  },
+  {
+    "id": "ch02/buchwissen-in-einen-entwicklungsauftrag-uebersetzen",
+    "title": "Buchwissen in einen Entwicklungsauftrag übersetzen",
+    "source_headings": [
+      "Der Auftrag an deine Entwicklungs-KI"
+    ],
+    "description": "Eine Verständnisfrage oder einen erteilten Bauauftrag anhand des tatsächlichen Nutzerziels bearbeiten, ohne den Lehrchat vorzuschreiben."
+  },
+  {
+    "id": "ch02/die-zweite-frage",
+    "title": "Eine fehlgeschlagene Folgefrage als Kontextproblem erkennen",
+    "source_headings": [
+      "Die zweite Frage"
+    ],
+    "description": "Eine gescheiterte Folgefrage am tatsächlich gesendeten Request als fehlenden Verlauf erkennen."
+  },
+  {
+    "id": "ch02/belege",
+    "title": "Versionsangaben und Entwicklungsgeschichte mit Stand nennen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Versionsangaben und Entwicklungsgeschichte strukturierter Ausgaben mit Stand und Geltungsbereich nennen."
+  }
+]

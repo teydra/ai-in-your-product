@@ -1,21 +1,59 @@
 {
   "schema_version": 1,
   "book_id": "1",
-  "editions": [],
+  "editions": [
+    {
+      "edition_id": "25",
+      "language": "de",
+      "kinds": [
+        "human",
+        "ai"
+      ],
+      "title": "KI ins eigene Produkt",
+      "subtitle": "Wie Software mit KI Aufgaben übernimmt.",
+      "author": "Stanislaus Hees",
+      "published": "2026-10-25",
+      "page_count": 253,
+      "ai_revision": "2026-10-25.edition25.1",
+      "print_visual_sha256": "4dc72f8df5136a5ad2eaf9019f59b5eae6d08b3cba20acf19a52cefbafa4c268",
+      "human_pages": "de/human/pages/25/index.json",
+      "ai_pages": "de/ai/pages/25/index.json",
+      "contents": "de/human/CONTENTS.md",
+      "ai_entry": "de/ai/knowledge/SKILL.md",
+      "ai_catalogue": "de/ai/knowledge/KNOWLEDGE.md",
+      "downloads": {
+        "human_pdf": {
+          "file": "de/downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf",
+          "sha256": "343fa189307cb86e79c648a5703d5f3dc81fe27ad98f96e3788d515a1679ab26",
+          "bytes": 2266875
+        },
+        "human_and_ai_zip": {
+          "file": "de/downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip",
+          "sha256": "f66949ca3c1fc068ec5abbd3f500a609c36c54bf9c0b2b11adf25e12b48b5b3a",
+          "bytes": 2873751
+        }
+      },
+      "release": "https://github.com/teydra/ai-in-your-product/releases/tag/de-25",
+      "isbn": null,
+      "notes": "ISBN noch nicht vergeben; das Impressum zeigt einen Platzhalter. Druckgeometrie (Rückenbreite) noch offen."
+    }
+  ],
   "availability": [
     {
       "language": "de",
       "kind": "human",
-      "status": "in_preparation",
-      "download": null,
-      "published_pages": 0
+      "status": "published",
+      "edition_id": "25",
+      "download": "de/downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf",
+      "published_pages": 253
     },
     {
       "language": "de",
       "kind": "ai",
-      "status": "in_preparation",
-      "download": null,
-      "published_pages": 0
+      "status": "published",
+      "edition_id": "25",
+      "download": "de/downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip",
+      "published_pages": 253
     },
     {
       "language": "en",
@@ -32,5 +70,5 @@
       "published_pages": 0
     }
   ],
-  "note": "An empty editions list means that no complete book edition is available yet; the cover and initial resources are available separately."
+  "note": "German edition 25 is published with every page in human and AI form. The English translation is planned."
 }

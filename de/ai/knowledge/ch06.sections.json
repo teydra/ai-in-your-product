@@ -1,0 +1,157 @@
+[
+  {
+    "id": "ch06/ausgabe-und-produktstimme",
+    "title": "Modellausgabe als Stimme des Produkts behandeln",
+    "source_headings": [
+      "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt"
+    ],
+    "description": "Modellausgaben als Stimme des Produkts behandeln und verbindliche Zusagen nur über geprüfte Wege zulassen."
+  },
+  {
+    "id": "ch06/produktlauf",
+    "title": "Einen Produktlauf als zusammenhängenden Vorgang erklären",
+    "source_headings": [
+      "Hinter dem Widget"
+    ],
+    "description": "Erklärt einen vollständigen Produktlauf vom sichtbaren Anliegen über interne Übergaben bis zur sichtbaren Wirkung und trennt Gesamtlog von aktuellem Request."
+  },
+  {
+    "id": "ch06/besuchernachricht",
+    "title": "Nachrichtenrolle, Anwendungskennung und sichtbare Blase auseinanderhalten",
+    "source_headings": [
+      "1. Der Besucher schreibt"
+    ],
+    "description": "Ordnet sichtbare Nachricht, Herkunft, Protokollrolle und interne Kennungen zu, ohne nicht übertragene IDs als Modellkontext auszugeben."
+  },
+  {
+    "id": "ch06/vollstaendige-anfrage",
+    "title": "Einen tatsächlichen Modellrequest lesbar aufschlüsseln",
+    "source_headings": [
+      "2. Das erhält das Modell"
+    ],
+    "description": "Hilft, einen vollständigen Providerrequest zusammenhängend zu lesen und ihn von Ausschnitten, Antwortobjekten und erfundenen Anwendungsfeldern zu unterscheiden."
+  },
+  {
+    "id": "ch06/kontextquellen",
+    "title": "Wo bereitgestellte Informationen herkommen und was sie belegen",
+    "source_headings": [
+      "Woher kommen die zusätzlichen Angaben?"
+    ],
+    "description": "Verbindet Kontextangaben mit ihrer Herkunft und Bedeutung und unterscheidet einen bekannten Katalogeintrag vom gelesenen Inhalt."
+  },
+  {
+    "id": "ch06/werkzeuganforderung",
+    "title": "Einen Tool Call als Anforderung der nächsten realen Handlung erklären",
+    "source_headings": [
+      "3. Das Modell fordert die fehlenden Öffnungszeiten an"
+    ],
+    "description": "Erklärt den Werkzeugwunsch des Modells, seine Argumente und Zuordnung sowie die anschließende tatsächliche Ausführung durch die Runtime."
+  },
+  {
+    "id": "ch06/fortsetzung-mit-wissen",
+    "title": "Die Rückgabe in den nächsten Modellkontext einbauen",
+    "source_headings": [
+      "4. Wissen laden, Verlauf erweitern"
+    ],
+    "description": "Zeigt, warum eine reale Rückgabe in die korrekte Fortsetzung gehört und wie fehlender Informationsfortschritt erkannt wird."
+  },
+  {
+    "id": "ch06/antwort-und-oberflaeche",
+    "title": "Aus einer Modellantwort eine verständliche und geprüfte Oberfläche machen",
+    "source_headings": [
+      "5. Aus der Modellantwort wird die Chatblase"
+    ],
+    "description": "Verbindet Providerantwort, eingelesene Felder und sichtbare UI mit der nötigen Datenprüfung und begrenzt die Aussage modellseitiger Bewertungen."
+  },
+  {
+    "id": "ch06/kalibrierung",
+    "title": "Selbsteinschätzungen von kalibrierten Wahrscheinlichkeiten unterscheiden",
+    "source_headings": [
+      "Die Zahl 0.96"
+    ],
+    "description": "Verlangte Selbsteinschätzungen von kalibrierten Wahrscheinlichkeiten unterscheiden und Kalibrierung an eigenen Fällen prüfen."
+  },
+  {
+    "id": "ch06/wissen-skills-tools",
+    "title": "Wissen, Vorgehensweisen und Fähigkeiten gezielt verfügbar machen",
+    "source_headings": [
+      "Wenn weiteres Wissen oder andere Fähigkeiten nötig werden"
+    ],
+    "description": "Hilft, fehlende Information, Vorgehenswissen und ausführbare Fähigkeiten als verständliche und kombinierbare Angebote bereitzustellen."
+  },
+  {
+    "id": "ch06/modellwechsel",
+    "title": "Einen Modellwechsel als neue Anfrage der Anwendung verstehen",
+    "source_headings": [
+      "Wie der Chatbot das Modell wechselt",
+      "Was die Software anschließend macht"
+    ],
+    "description": "Erklärt einen angeforderten Modellwechsel als neue Anfrage der Anwendung mit einem nachvollziehbaren Übergabestand."
+  },
+  {
+    "id": "ch06/modell-als-tool",
+    "title": "Eine spezialisierte KI-Fähigkeit in einen laufenden Agenten einbinden",
+    "source_headings": [
+      "Ein Werkzeug kann intern ein anderes Modell starten"
+    ],
+    "description": "Unterscheidet eine spezialisierte KI-Teilaufgabe mit Rückgabe von der Übergabe der Hauptbearbeitung an ein anderes Modell."
+  },
+  {
+    "id": "ch06/oberflaechenzustand",
+    "title": "Den für das Modell verfügbaren Zustand einer Oberfläche erklären",
+    "source_headings": [
+      "Den Zustand einer Oberfläche lesen"
+    ],
+    "description": "Ordnet die tatsächlich verfügbare UI-Beobachtung, ihre Zielkennungen und mögliche spätere Handlungen dem richtigen Kontext zu."
+  },
+  {
+    "id": "ch06/button-wirkung",
+    "title": "Beschriftung, Klick und tatsächliche Aktion auseinanderhalten",
+    "source_headings": [
+      "Was der Button unter der Antwort bedeutet"
+    ],
+    "description": "Erklärt, wann ein Klick eine Nachricht erzeugt oder eine gespeicherte Aktion fortsetzt und wie Beschriftung und Wirkung zusammenpassen."
+  },
+  {
+    "id": "ch06/sinnvolle-faehigkeitsbeschreibung",
+    "title": "Fähigkeiten nach ihrem Nutzen und ihrer Wirkung benennen",
+    "source_headings": [
+      "Warum ein Feature existiert"
+    ],
+    "description": "Leitet verständliche Namen, Beschreibungen und sparsame Datenfelder aus Zweck, Verbraucher und tatsächlicher Wirkung ab."
+  },
+  {
+    "id": "ch06/entscheidungen-als-typisierte-auswahl-gestalten",
+    "title": "Entscheidungen als typisierte Auswahl gestalten",
+    "source_headings": [
+      "Decision Models",
+      "Jev ordnet die Anfrage zu",
+      "Aus der Auswahl wird eine Funktion"
+    ],
+    "description": "Jev-Fragen und beide Antwortcontainer erklären; Kategorien, Bedingungswerte und geordnete Scores in korrekt zugeordnete Produktwirkungen übersetzen."
+  },
+  {
+    "id": "ch06/entscheidungsangebote-an-der-aufgabe-vergleichen",
+    "title": "Entscheidungsangebote an der Aufgabe vergleichen",
+    "source_headings": [
+      "Dieselbe Aufgabe bei OpenAI"
+    ],
+    "description": "Dieselbe Routingaufgabe in Jev- und OpenAI-Decisions-Verträge übersetzen und beobachtete Ergebnisse unter passenden Vergleichsbedingungen beurteilen."
+  },
+  {
+    "id": "ch06/zahlen-im-produkt",
+    "title": "Jedem Antwortfeld eine Wirkung zuordnen",
+    "source_headings": [
+      "Was das Produkt mit Zahlen tun darf"
+    ],
+    "description": "Jedem Antwortfeld eine Wirkung zuordnen und Zahlen nur mit gemessener Bedeutung verwenden."
+  },
+  {
+    "id": "ch06/belege",
+    "title": "Tahoe-Fall, Kalibrierung und Entscheidungsschnittstellen belegen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Tahoe-Fall, Kalibrierung und den Stand der Entscheidungsschnittstellen belegen."
+  }
+]

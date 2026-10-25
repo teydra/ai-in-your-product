@@ -1,0 +1,124 @@
+[
+  {
+    "id": "ch03/zustandslosigkeit-und-verlauf",
+    "title": "Zustandslose Modellaufrufe und angezeigten Verlauf unterscheiden",
+    "source_headings": [
+      "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+      "Ein Stapel Briefe"
+    ],
+    "description": "Zustandslose Modellaufrufe vom angezeigten Verlauf unterscheiden und wachsende Verläufe als Produktentscheidung erklären."
+  },
+  {
+    "id": "ch03/chat-frontend-backend-modell",
+    "title": "Frontend, Backend und Modellaufruf verbinden",
+    "source_headings": [
+      "Das kleinste Chatprogramm der Welt"
+    ],
+    "description": "Eine Chatfunktion über ihre realen Komponenten und Datenwege erklären und eine konkrete Nutzerfrage von einem Bauauftrag unterscheiden."
+  },
+  {
+    "id": "ch03/begleitbeispiel-und-demogrenzen",
+    "title": "Das Begleitbeispiel starten und seinen Umfang kennen",
+    "source_headings": [
+      "Das Beispiel starten"
+    ],
+    "description": "Den vorhandenen lokalen Demoweg nutzen und fest vorgegebene Antworten, echte Provideraufrufe und bereits belegte Prüfungen auseinanderhalten."
+  },
+  {
+    "id": "ch03/browseranfrage-zu-providerrequest",
+    "title": "Browseranfrage in einen Providerrequest übersetzen",
+    "source_headings": [
+      "Vom Eingabefeld zum Modell-Request"
+    ],
+    "description": "Eigene Chat-ID, kopierten Verlauf, Rollen und HTTP-Vertrag ohne Vermischung von Anwendungs- und Providerobjekten verfolgen."
+  },
+  {
+    "id": "ch03/antwortdarstellung-und-verlaufsspeicherung",
+    "title": "Antwortdarstellung und Verlaufsspeicherung trennen",
+    "source_headings": [
+      "User und Assistant"
+    ],
+    "description": "Typisierte Modellinhalte sicher darstellen und erfolgreiche Turns speichern, während Fehler und technische Hinweise eigene Ereignisse bleiben."
+  },
+  {
+    "id": "ch03/folgefragen-und-kontext",
+    "title": "Folgefragen mit dem richtigen Kontext bearbeiten",
+    "source_headings": [
+      "Aus einer Antwort wird ein Gespräch"
+    ],
+    "description": "Den zweiten vollständigen Request rekonstruieren und sichtbaren Verlauf, gesendeten Kontext sowie persistente Speicherung unterscheiden."
+  },
+  {
+    "id": "ch03/systemprompt-und-wissenskontext",
+    "title": "Systemprompt und Wissenskontext richtig einordnen",
+    "source_headings": [
+      "Was der System Prompt tatsächlich macht"
+    ],
+    "description": "Rollen durch den tatsächlichen Request bestimmen und Instruktionen, Gespräch und geladene Daten mit ihrer Herkunft erhalten."
+  },
+  {
+    "id": "ch03/systemtext-als-arbeitsvertrag",
+    "title": "Systemtexte als brauchbare Arbeitsverträge schreiben",
+    "source_headings": [
+      "Systemtexte als Arbeitsverträge"
+    ],
+    "description": "Ziel, Informationen, Fähigkeiten und Ergebnismaßstab so beschreiben, dass sinnvolle Auswahl möglich und reale Grenzen technisch umgesetzt bleiben."
+  },
+  {
+    "id": "ch03/abbruch-und-teilantworten",
+    "title": "Teilantworten, Stop-Gründe und Kontextgrenzen behandeln",
+    "source_headings": [
+      "Wenn die Antwort mitten im Code endet"
+    ],
+    "description": "Erreichte Ausgabelimits und andere Abschlusszustände korrekt anzeigen und unvollständige Antworten nachvollziehbar fortsetzen."
+  },
+  {
+    "id": "ch03/getrennte-chats-und-nebenlaeufigkeit",
+    "title": "Getrennte Chats und gleichzeitig eintreffende Turns",
+    "source_headings": [
+      "Mehrere Chats"
+    ],
+    "description": "Die richtige Gesprächsidentität, serverseitige Zugriffsprüfung, Reihenfolge und dauerhafte Speicherung zusammen gestalten."
+  },
+  {
+    "id": "ch03/fehlerursachen-und-aussagekraeftige-tests",
+    "title": "Fehlerursachen finden und aussagekräftig prüfen",
+    "source_headings": [
+      "Wenn es schiefgeht, und es geht schief"
+    ],
+    "description": "Transport, Authentisierung, Parser und Modellqualität mit passenden Belegen prüfen, statt die Lehrfehlerfolge als ausgeführten Modelltest auszugeben."
+  },
+  {
+    "id": "ch03/last-retries-und-unklare-ergebnisse",
+    "title": "Last, Wiederholungen und unklare Ausgänge beherrschen",
+    "source_headings": [
+      "Mehrere Kunden schreiben gleichzeitig"
+    ],
+    "description": "Ratenlimit, Ausgabenlimit und Überlastung unterscheiden sowie Warteschlangen, Wiederholungsbudgets und doppelte Verarbeitung kontrollieren."
+  },
+  {
+    "id": "ch03/verlauf-im-erklaerfeld",
+    "title": "Den Verlauf für eine Folgefrage gezielt einbauen",
+    "source_headings": [
+      "Zurück zu Leihregal"
+    ],
+    "description": "Den Verlauf für Folgefragen gezielt speichern, begrenzen und am tatsächlich gesendeten zweiten Request prüfen."
+  },
+  {
+    "id": "ch03/vom-chat-zur-tatsaechlichen-aktion",
+    "title": "Vom Chat zur tatsächlichen Aktion übergehen",
+    "source_headings": [],
+    "description": "Eine hilfreiche reine Chatfunktion von einer benötigten ausführbaren Produktfähigkeit unterscheiden und den nächsten Ausbau begründen.",
+    "source_anchors": [
+      "Aber eine Sache passt nicht ins Bild"
+    ]
+  },
+  {
+    "id": "ch03/belege",
+    "title": "Den Bing-Fall und die Cookie-Geschichte quellengenau erzählen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Den Bing-Fall und die Cookie-Geschichte quellengenau und mit damaligen Werten erzählen."
+  }
+]

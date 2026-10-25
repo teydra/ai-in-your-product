@@ -1,0 +1,274 @@
+[
+  {
+    "id": "ch05/arbeitsvertrag-statt-regelwand",
+    "title": "Überladene Prompts als Konstruktionsfehler erkennen",
+    "source_headings": [
+      "Kapitel 5 — Offen, ohne dass alles offensteht"
+    ],
+    "description": "Überladene, widersprüchliche oder schreiende Prompts als Konstruktionsfehler erkennen und Regeln an ihren Ort bringen."
+  },
+  {
+    "id": "ch05/offene-entscheidungen",
+    "title": "Einen offenen Handlungsraum verständlich machen",
+    "source_headings": [
+      "Wir haben fast alles",
+      "Offene Fähigkeiten statt KI am Fließband"
+    ],
+    "description": "Offenheit als situative Wahl anhand echten Zustands erklären und vom vorgegebenen Replay sowie einem unbegrenzten Zugriff abgrenzen."
+  },
+  {
+    "id": "ch05/workflows-und-agenten",
+    "title": "Notwendige Abhängigkeiten von starren Gesprächspfaden unterscheiden",
+    "source_headings": [],
+    "description": "Entscheiden, welche Abhängigkeiten technisch gesichert werden müssen und welche fachlichen nächsten Schritte die KI sinnvoll selbst wählt.",
+    "source_anchors": [
+      "Wir bleiben beim Preisprojekt aus Kapitel 4"
+    ]
+  },
+  {
+    "id": "ch05/nachspielbarer-lauf-und-provenienz",
+    "title": "Den gespeicherten Verlauf als nachspielbare Evidenz lesen",
+    "source_headings": [
+      "Ein Lauf, den wir nachspielen können",
+      "Welches Modell?"
+    ],
+    "description": "Gespeicherten Gesamtverlauf, neun Request-Vorlagen, Werkzeugprotokoll und tatsächlich nachgespielte Operationen korrekt einordnen."
+  },
+  {
+    "id": "ch05/arbeitsumgebung-und-werkzeugregister",
+    "title": "Arbeitsregeln und ausführbare Fähigkeiten passend bereitstellen",
+    "source_headings": [
+      "Arbeitsregeln",
+      "Angebotene Werkzeuge",
+      "Das Ladewerkzeug",
+      "Gezielte Ersetzung"
+    ],
+    "description": "Den vom Host gebauten Arbeitskontext und die fünf konkreten Werkzeugverträge mit verständlichen Namen und realen Handlern verbinden."
+  },
+  {
+    "id": "ch05/nutzerauftrag-und-skill-katalog",
+    "title": "Bekannte Anforderungen und verfügbare Anleitungen im ersten Kontext zeigen",
+    "source_headings": [
+      "Die Nachricht im Chat",
+      "Welche Skills kennt die KI?"
+    ],
+    "description": "Am ersten Request die schon bekannten Nutzeranforderungen und Skillbeschreibungen zeigen, ohne späteren Inhalt vorwegzunehmen."
+  },
+  {
+    "id": "ch05/c01-datei-suchen",
+    "title": "Schritt 1: Aus dem Auftrag eine überprüfbare Dateisuche machen",
+    "source_headings": [
+      "1. Die Datei suchen",
+      "Werkzeug → Server"
+    ],
+    "description": "Aufruf c01 mit Suchtext prices, seinen beiden Pfadtreffern und dem anschließend fünf Items langen Kontext nachvollziehen."
+  },
+  {
+    "id": "ch05/c02-preiscode-lesen",
+    "title": "Schritt 2: Den gefundenen Pfad in tatsächlichen Programmtext überführen",
+    "source_headings": [
+      "2. Den Preiscode lesen",
+      "Datei → Kontext"
+    ],
+    "description": "Aufruf c02 und die erstmalige Beobachtung des Preisprogramms von einer bereits ausgeführten Änderung unterscheiden."
+  },
+  {
+    "id": "ch05/c03-tests-lesen",
+    "title": "Schritt 3: Vorhandene Erwartungen lesen, ohne einen Testlauf zu behaupten",
+    "source_headings": [
+      "3. Die Tests lesen",
+      "Drei Preisfälle"
+    ],
+    "description": "Die drei vorhandenen Testerwartungen und das Abbruchverhalten des Testprogramms lesen, ohne einen Testlauf vorzutäuschen."
+  },
+  {
+    "id": "ch05/c04-skill-laden",
+    "title": "Schritt 4: Aus einem Katalogeintrag geladene Arbeitsanleitung machen",
+    "source_headings": [
+      "4. Die Anleitung laden",
+      "Der vollständige Skill"
+    ],
+    "description": "Den Übergang vom Katalogeintrag zum vollständigen geladenen Preis-Skill samt Rundungsregel und Testauftrag erklären."
+  },
+  {
+    "id": "ch05/c05-erste-dateiaenderung",
+    "title": "Schritt 5: Eine gespeicherte Änderung von ihrer fachlichen Richtigkeit trennen",
+    "source_headings": [
+      "5. Die Datei ändern",
+      "Auf dem Datenträger"
+    ],
+    "description": "Die erste eindeutige Ersetzung und ihren Schreibnachweis erklären, während die fachlich fehlende Rundungsart noch offen bleibt."
+  },
+  {
+    "id": "ch05/c06-testfehler-auswerten",
+    "title": "Schritt 6: Den tatsächlichen Testfehler in eine Diagnose überführen",
+    "source_headings": [
+      "6. Den Test ausführen",
+      "Der Test schlägt fehl"
+    ],
+    "description": "Den echten ersten Testprozess, seine konkrete Fehlermeldung und die daraus begründete Diagnose auswerten."
+  },
+  {
+    "id": "ch05/c07-rundung-korrigieren",
+    "title": "Schritt 7: Die fehlende Regel ergänzen, statt den Test umzudeuten",
+    "source_headings": [
+      "7. Die Rundungsart ergänzen",
+      "Korrektur gespeichert"
+    ],
+    "description": "Die Korrektur auf ROUND_HALF_UP mit geladener Projektregel, Zwischenmeldung und bestätigtem neuen Dateistand verbinden."
+  },
+  {
+    "id": "ch05/c08-gleichen-test-wiederholen",
+    "title": "Schritt 8: Mit demselben Test die korrigierte Version überprüfen",
+    "source_headings": [
+      "8. Denselben Test wiederholen",
+      "Drei Fälle bestanden"
+    ],
+    "description": "Die sinnvolle Testwiederholung am geänderten Zustand und den auf drei vorhandene Fälle begrenzten Erfolgsbeleg erklären."
+  },
+  {
+    "id": "ch05/belegte-abschlussantwort",
+    "title": "Aus bestätigten Ergebnissen eine passende Abschlussantwort bilden",
+    "source_headings": [
+      "Die Abschlussantwort"
+    ],
+    "description": "Eine Abschlussantwort auf bestätigte Änderungen und Testergebnisse stützen und vom vorherigen Kontext sowie einer Veröffentlichung unterscheiden."
+  },
+  {
+    "id": "ch05/eindeutiges-schreiben",
+    "title": "Gezielt ersetzen und Änderungen am beobachteten Stand absichern",
+    "source_headings": [
+      "Welche Stelle das Werkzeug ersetzt"
+    ],
+    "description": "Textbasierte eindeutige Ersetzung, Konflikte, Readback und zusätzliche Anforderungen bei konkurrierenden Änderungen korrekt behandeln."
+  },
+  {
+    "id": "ch05/kontext-fortsetzen",
+    "title": "Für jeden Modellaufruf genau den bereits entstandenen Kontext verwenden",
+    "source_headings": [
+      "Der Kontext wächst mit jedem Schritt"
+    ],
+    "description": "Die neun Kontextpräfixe von 2 bis 20 Items und den gespeicherten Endzustand mit 21 Items beim Erklären und Implementieren auseinanderhalten."
+  },
+  {
+    "id": "ch05/reale-beobachtungen",
+    "title": "Text und strukturierte Daten als Beobachtungen der realen Umgebung nutzen",
+    "source_headings": [
+      "Warum Text und strukturierte Daten genügen"
+    ],
+    "description": "Rückgaben als begrenzte Beobachtungen realer Zustände interpretieren und für die Aufgabe passende Information oder Modalität bereitstellen."
+  },
+  {
+    "id": "ch05/faehigkeitsschnittstellen",
+    "title": "Werkzeuge in der Sprache ihrer tatsächlichen Wirkung entwerfen",
+    "source_headings": [
+      "Neue Werkzeuge erweitern den Handlungsraum"
+    ],
+    "description": "Kombinierbare Tools nach fachlicher Domäne, konkreter Wirkung und anschließbaren Ein- und Ausgaben gestalten."
+  },
+  {
+    "id": "ch05/wissensbedarf-und-faehigkeit",
+    "title": "Fehlendes Vorgehenswissen von fehlendem Zugriff unterscheiden",
+    "source_headings": [
+      "Wissen ist etwas anderes als eine Fähigkeit"
+    ],
+    "description": "Fehlendes Vorgehenswissen von fehlendem Zugriff, geladener aber falsch umgesetzter Information und Ausführungsfehlern unterscheiden."
+  },
+  {
+    "id": "ch05/skills-bei-bedarf",
+    "title": "Passende Arbeitsanleitungen laden und mit vorhandenem Wissen weiterarbeiten",
+    "source_headings": [
+      "Wissen bei Bedarf laden"
+    ],
+    "description": "Arbeitsanleitungen am konkreten Informationsbedarf auswählen, ihren tatsächlichen Inhalt verwenden und unnötige Rückfragen oder Wiederholungen vermeiden."
+  },
+  {
+    "id": "ch05/skillformat-und-ladeweg",
+    "title": "Dateiformat, Ressourcenkennung und tatsächliche Integration auseinanderhalten",
+    "source_headings": [],
+    "description": "Skillformat, Metadatenparser, registrierte Ressourcenkennung und tatsächliche Hostintegration als getrennte Aufgaben verstehen.",
+    "source_anchors": [
+      "Nicht jede LLM-API besitzt einen eigenen Skill-Mechanismus"
+    ]
+  },
+  {
+    "id": "ch05/wissen-faehigkeit-und-befugnis",
+    "title": "Wissen ändern, ohne versehentlich neue Befugnisse zu erzeugen",
+    "source_headings": [
+      "Skills und Werkzeuge bleiben getrennt"
+    ],
+    "description": "Arbeitswissen und Toolfähigkeiten unabhängig pflegen, ohne aus geladenen Texten oder historischen Fehlern neue Befugnisse oder Verbote abzuleiten."
+  },
+  {
+    "id": "ch05/werkzeuge-dynamisch-entdecken",
+    "title": "Viele Fähigkeiten über verständliche Auswahl und echte Nachladung erschließen",
+    "source_headings": [
+      "Auch Werkzeuge lassen sich bei Bedarf finden"
+    ],
+    "description": "Große Werkzeugbestände über brauchbare Suchbeschreibungen und echte Nachladung erschließen, ohne Suchtreffer mit verfügbaren Fähigkeiten zu verwechseln."
+  },
+  {
+    "id": "ch05/weitere-ki-faehigkeiten-anfordern",
+    "title": "Spezialisierte Modellarbeit mit einem klaren Auftrag anschließen",
+    "source_headings": [
+      "Ein Agent kann andere KI-Fähigkeiten anfordern"
+    ],
+    "description": "Spezialisierte Modellarbeit mit konkretem Kontext, Auftrag, Belegen und Rückgabe an den Hauptagenten sinnvoll anbinden."
+  },
+  {
+    "id": "ch05/offener-runtime-loop",
+    "title": "Den nächsten Schritt aus Zustand und Ergebnis entstehen lassen",
+    "source_headings": [
+      "Der komplette offene Loop"
+    ],
+    "description": "Eine Runtime bauen, die reale Ergebnisse zurückführt und fachliche nächste Schritte offen lässt, während sie Fortschritt und Abschluss verlässlich verwaltet."
+  },
+  {
+    "id": "ch05/zwischenmeldungen-im-chat",
+    "title": "Fortschrittstext mit der tatsächlichen Arbeit verbinden",
+    "source_headings": [
+      "Was während der Arbeit im Chat erscheint"
+    ],
+    "description": "Assistant-Zwischenmeldungen und aus Toolereignissen erzeugte Statusanzeigen mit dem tatsächlichen Arbeitsfortschritt verbinden."
+  },
+  {
+    "id": "ch05/nachrichtenphasen-und-ui",
+    "title": "Nachrichtenphase, Itemstatus und Darstellungsentscheidung auseinanderhalten",
+    "source_headings": [
+      "Wie das System die Nachrichten unterscheidet"
+    ],
+    "description": "Nachrichtenphase, Itemstatus, Laufsteuerung und UI-Darstellung im konkreten Protokoll unterscheiden; fehlende Replay-Phasen nicht erfinden."
+  },
+  {
+    "id": "ch05/laufende-wartende-und-beendete-arbeit",
+    "title": "Laufende, wartende und beendete Arbeit zuverlässig darstellen",
+    "source_headings": [
+      "Wann der aktuelle Lauf endet"
+    ],
+    "description": "Ende eines Items oder Laufs von erledigter Aufgabe, Wartezustand und tatsächlicher Wiederaufnahme unterscheiden."
+  },
+  {
+    "id": "ch05/verfuegbarkeitsgrenzen",
+    "title": "Technische Grenzen erkennen und innerhalb des erreichbaren Systems weiterarbeiten",
+    "source_headings": [
+      "Offen heißt nicht grenzenlos"
+    ],
+    "description": "Reale Werkzeug-, Konto- und Wirkungsgrenzen korrekt auswerten und innerhalb vorhandener Befugnisse geeignete Alternativen verfolgen."
+  },
+  {
+    "id": "ch05/regeln-an-den-richtigen-ort",
+    "title": "Einen Prompt aufräumen und die Wirkung vergleichen",
+    "source_headings": [
+      "Maras neue Seite"
+    ],
+    "description": "Einen Agentenprompt Regel für Regel aufräumen und die Wirkung an denselben Aufgaben vorher und nachher belegen."
+  },
+  {
+    "id": "ch05/replay-und-vertraege-belegen",
+    "title": "Den vorgeführten Lauf und externe Schnittstellen getrennt belegen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Den Replay-Nachweis, gespeicherten Verlauf, tatsächliche Request-Präfixe und verschiedene Herstellerverträge korrekt begründen."
+  }
+]

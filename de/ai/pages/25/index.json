@@ -1,0 +1,3197 @@
+{
+ "title": "KI ins eigene Produkt",
+ "subtitle": "Wie Software mit KI Aufgaben übernimmt.",
+ "author": "Stanislaus Hees",
+ "pdf_sha256": "343fa189307cb86e79c648a5703d5f3dc81fe27ad98f96e3788d515a1679ab26",
+ "page_count": 253,
+ "ai_revision": "2026-10-25.edition25.1",
+ "mapping_review": "reviewed",
+ "pages": [
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 1,
+   "section": "KI ins eigene Produkt",
+   "file": "0001.md",
+   "knowledge_sections": [
+    "front/orientierung"
+   ],
+   "human_page": "../../../human/pages/25/0001.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 2,
+   "section": "Impressum",
+   "file": "0002.md",
+   "knowledge_sections": [
+    "front/quellen"
+   ],
+   "human_page": "../../../human/pages/25/0002.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 3,
+   "section": "Lesen. Fragen. Verstehen.",
+   "file": "0003.md",
+   "knowledge_sections": [
+    "front/fragen-und-laden"
+   ],
+   "human_page": "../../../human/pages/25/0003.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 4,
+   "section": "Inhalt",
+   "file": "0004.md",
+   "knowledge_sections": [
+    "front/orientierung"
+   ],
+   "human_page": "../../../human/pages/25/0004.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 5,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0005.md",
+   "knowledge_sections": [
+    "front/prolog-das-falsche-bild"
+   ],
+   "human_page": "../../../human/pages/25/0005.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 6,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0006.md",
+   "knowledge_sections": [
+    "front/prolog-das-falsche-bild",
+    "front/prolog-aufgabenlaenge"
+   ],
+   "human_page": "../../../human/pages/25/0006.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 7,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0007.md",
+   "knowledge_sections": [
+    "front/prolog-aufgabenlaenge"
+   ],
+   "human_page": "../../../human/pages/25/0007.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 8,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0008.md",
+   "knowledge_sections": [
+    "front/prolog-aufgabenlaenge"
+   ],
+   "human_page": "../../../human/pages/25/0008.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 9,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0009.md",
+   "knowledge_sections": [
+    "front/prolog-aufgabenlaenge",
+    "front/prolog-verbreitung-und-verantwortung"
+   ],
+   "human_page": "../../../human/pages/25/0009.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 10,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0010.md",
+   "knowledge_sections": [
+    "front/prolog-verbreitung-und-verantwortung"
+   ],
+   "human_page": "../../../human/pages/25/0010.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 11,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0011.md",
+   "knowledge_sections": [
+    "front/prolog-verbreitung-und-verantwortung",
+    "front/prolog-drei-saetze"
+   ],
+   "human_page": "../../../human/pages/25/0011.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 12,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0012.md",
+   "knowledge_sections": [
+    "front/prolog-drei-saetze",
+    "front/prolog-lehrfall"
+   ],
+   "human_page": "../../../human/pages/25/0012.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 13,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0013.md",
+   "knowledge_sections": [
+    "front/prolog-lehrfall",
+    "front/belege"
+   ],
+   "human_page": "../../../human/pages/25/0013.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 14,
+   "section": "Prolog — Ein Jahr lang das falsche Bild",
+   "file": "0014.md",
+   "knowledge_sections": [
+    "front/belege"
+   ],
+   "human_page": "../../../human/pages/25/0014.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 15,
+   "section": "Vom Prototyp zum Produkt",
+   "file": "0015.md",
+   "knowledge_sections": [
+    "front/gedanken-uebertragen"
+   ],
+   "human_page": "../../../human/pages/25/0015.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 16,
+   "section": "Vom Prototyp zum Produkt",
+   "file": "0016.md",
+   "knowledge_sections": [
+    "front/moeglichkeiten-und-rueckkopplung"
+   ],
+   "human_page": "../../../human/pages/25/0016.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 17,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0017.md",
+   "knowledge_sections": [
+    "ch01/irrtum-und-wissensgrenze"
+   ],
+   "human_page": "../../../human/pages/25/0017.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 18,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0018.md",
+   "knowledge_sections": [
+    "ch01/irrtum-und-wissensgrenze"
+   ],
+   "human_page": "../../../human/pages/25/0018.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 19,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0019.md",
+   "knowledge_sections": [
+    "ch01/training-und-modellparameter"
+   ],
+   "human_page": "../../../human/pages/25/0019.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 20,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0020.md",
+   "knowledge_sections": [
+    "ch01/training-und-modellparameter"
+   ],
+   "human_page": "../../../human/pages/25/0020.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 21,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0021.md",
+   "knowledge_sections": [
+    "ch01/training-und-modellparameter"
+   ],
+   "human_page": "../../../human/pages/25/0021.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 22,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0022.md",
+   "knowledge_sections": [
+    "ch01/training-und-modellparameter",
+    "ch01/tokens-kontext-und-auswahl"
+   ],
+   "human_page": "../../../human/pages/25/0022.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 23,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0023.md",
+   "knowledge_sections": [
+    "ch01/tokens-kontext-und-auswahl"
+   ],
+   "human_page": "../../../human/pages/25/0023.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 24,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0024.md",
+   "knowledge_sections": [
+    "ch01/tokens-kontext-und-auswahl",
+    "ch01/ueberzeugend-falsch"
+   ],
+   "human_page": "../../../human/pages/25/0024.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 25,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0025.md",
+   "knowledge_sections": [
+    "ch01/ueberzeugend-falsch",
+    "ch01/thinking-prompt-und-pruefbare-ergebnisse"
+   ],
+   "human_page": "../../../human/pages/25/0025.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 26,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0026.md",
+   "knowledge_sections": [
+    "ch01/thinking-prompt-und-pruefbare-ergebnisse",
+    "ch01/was-das-produkt-liefern-muss"
+   ],
+   "human_page": "../../../human/pages/25/0026.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 27,
+   "section": "Kapitel 1 — Milliarden Sätze, ein nächstes Wort",
+   "file": "0027.md",
+   "knowledge_sections": [
+    "ch01/was-das-produkt-liefern-muss",
+    "ch01/belege"
+   ],
+   "human_page": "../../../human/pages/25/0027.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 28,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0028.md",
+   "knowledge_sections": [
+    "ch02/bruchstuecke-und-gesamtbild"
+   ],
+   "human_page": "../../../human/pages/25/0028.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 29,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0029.md",
+   "knowledge_sections": [
+    "ch02/bruchstuecke-und-gesamtbild",
+    "ch02/json-und-den-passenden-api-vertrag-erklaeren"
+   ],
+   "human_page": "../../../human/pages/25/0029.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 30,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0030.md",
+   "knowledge_sections": [
+    "ch02/json-und-den-passenden-api-vertrag-erklaeren",
+    "ch02/von-der-wirkung-ausgehen"
+   ],
+   "human_page": "../../../human/pages/25/0030.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 31,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0031.md",
+   "knowledge_sections": [
+    "ch02/von-der-wirkung-ausgehen",
+    "ch02/vom-anfragekoerper-zum-http-aufruf"
+   ],
+   "human_page": "../../../human/pages/25/0031.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 32,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0032.md",
+   "knowledge_sections": [
+    "ch02/vom-anfragekoerper-zum-http-aufruf"
+   ],
+   "human_page": "../../../human/pages/25/0032.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 33,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0033.md",
+   "knowledge_sections": [
+    "ch02/vom-anfragekoerper-zum-http-aufruf",
+    "ch02/antwortbloecke-abschluss-und-verbrauch"
+   ],
+   "human_page": "../../../human/pages/25/0033.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 34,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0034.md",
+   "knowledge_sections": [
+    "ch02/antwortbloecke-abschluss-und-verbrauch",
+    "ch02/json-lesen-ohne-auswendiglernen"
+   ],
+   "human_page": "../../../human/pages/25/0034.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 35,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0035.md",
+   "knowledge_sections": [
+    "ch02/json-lesen-ohne-auswendiglernen"
+   ],
+   "human_page": "../../../human/pages/25/0035.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 36,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0036.md",
+   "knowledge_sections": [
+    "ch02/json-lesen-ohne-auswendiglernen",
+    "ch02/drei-fragen-an-jedes-json"
+   ],
+   "human_page": "../../../human/pages/25/0036.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 37,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0037.md",
+   "knowledge_sections": [
+    "ch02/drei-fragen-an-jedes-json",
+    "ch02/dialekte-und-versionen"
+   ],
+   "human_page": "../../../human/pages/25/0037.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 38,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0038.md",
+   "knowledge_sections": [
+    "ch02/dialekte-und-versionen"
+   ],
+   "human_page": "../../../human/pages/25/0038.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 39,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0039.md",
+   "knowledge_sections": [
+    "ch02/vier-briefe"
+   ],
+   "human_page": "../../../human/pages/25/0039.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 40,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0040.md",
+   "knowledge_sections": [
+    "ch02/vier-briefe",
+    "ch02/darstellung-streaming-und-ausgabevertraege"
+   ],
+   "human_page": "../../../human/pages/25/0040.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 41,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0041.md",
+   "knowledge_sections": [
+    "ch02/darstellung-streaming-und-ausgabevertraege"
+   ],
+   "human_page": "../../../human/pages/25/0041.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 42,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0042.md",
+   "knowledge_sections": [
+    "ch02/ki-zum-richtigen-erklaeren-bringen",
+    "ch02/buchwissen-in-einen-entwicklungsauftrag-uebersetzen"
+   ],
+   "human_page": "../../../human/pages/25/0042.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 43,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0043.md",
+   "knowledge_sections": [
+    "ch02/buchwissen-in-einen-entwicklungsauftrag-uebersetzen",
+    "ch02/die-zweite-frage"
+   ],
+   "human_page": "../../../human/pages/25/0043.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 44,
+   "section": "Kapitel 2 — Der Brief an die Maschine",
+   "file": "0044.md",
+   "knowledge_sections": [
+    "ch02/die-zweite-frage",
+    "ch02/belege"
+   ],
+   "human_page": "../../../human/pages/25/0044.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 45,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0045.md",
+   "knowledge_sections": [
+    "ch03/zustandslosigkeit-und-verlauf"
+   ],
+   "human_page": "../../../human/pages/25/0045.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 46,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0046.md",
+   "knowledge_sections": [
+    "ch03/zustandslosigkeit-und-verlauf"
+   ],
+   "human_page": "../../../human/pages/25/0046.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 47,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0047.md",
+   "knowledge_sections": [
+    "ch03/zustandslosigkeit-und-verlauf"
+   ],
+   "human_page": "../../../human/pages/25/0047.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 48,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0048.md",
+   "knowledge_sections": [
+    "ch03/zustandslosigkeit-und-verlauf",
+    "ch03/chat-frontend-backend-modell"
+   ],
+   "human_page": "../../../human/pages/25/0048.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 49,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0049.md",
+   "knowledge_sections": [
+    "ch03/chat-frontend-backend-modell"
+   ],
+   "human_page": "../../../human/pages/25/0049.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 50,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0050.md",
+   "knowledge_sections": [
+    "ch03/begleitbeispiel-und-demogrenzen"
+   ],
+   "human_page": "../../../human/pages/25/0050.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 51,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0051.md",
+   "knowledge_sections": [
+    "ch03/browseranfrage-zu-providerrequest"
+   ],
+   "human_page": "../../../human/pages/25/0051.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 52,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0052.md",
+   "knowledge_sections": [
+    "ch03/browseranfrage-zu-providerrequest",
+    "ch03/antwortdarstellung-und-verlaufsspeicherung"
+   ],
+   "human_page": "../../../human/pages/25/0052.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 53,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0053.md",
+   "knowledge_sections": [
+    "ch03/antwortdarstellung-und-verlaufsspeicherung",
+    "ch03/folgefragen-und-kontext"
+   ],
+   "human_page": "../../../human/pages/25/0053.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 54,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0054.md",
+   "knowledge_sections": [
+    "ch03/folgefragen-und-kontext"
+   ],
+   "human_page": "../../../human/pages/25/0054.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 55,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0055.md",
+   "knowledge_sections": [
+    "ch03/folgefragen-und-kontext",
+    "ch03/systemprompt-und-wissenskontext"
+   ],
+   "human_page": "../../../human/pages/25/0055.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 56,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0056.md",
+   "knowledge_sections": [
+    "ch03/systemprompt-und-wissenskontext"
+   ],
+   "human_page": "../../../human/pages/25/0056.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 57,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0057.md",
+   "knowledge_sections": [
+    "ch03/systemtext-als-arbeitsvertrag"
+   ],
+   "human_page": "../../../human/pages/25/0057.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 58,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0058.md",
+   "knowledge_sections": [
+    "ch03/systemtext-als-arbeitsvertrag",
+    "ch03/abbruch-und-teilantworten"
+   ],
+   "human_page": "../../../human/pages/25/0058.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 59,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0059.md",
+   "knowledge_sections": [
+    "ch03/abbruch-und-teilantworten"
+   ],
+   "human_page": "../../../human/pages/25/0059.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 60,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0060.md",
+   "knowledge_sections": [
+    "ch03/getrennte-chats-und-nebenlaeufigkeit"
+   ],
+   "human_page": "../../../human/pages/25/0060.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 61,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0061.md",
+   "knowledge_sections": [
+    "ch03/fehlerursachen-und-aussagekraeftige-tests"
+   ],
+   "human_page": "../../../human/pages/25/0061.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 62,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0062.md",
+   "knowledge_sections": [
+    "ch03/last-retries-und-unklare-ergebnisse"
+   ],
+   "human_page": "../../../human/pages/25/0062.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 63,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0063.md",
+   "knowledge_sections": [
+    "ch03/last-retries-und-unklare-ergebnisse",
+    "ch03/verlauf-im-erklaerfeld"
+   ],
+   "human_page": "../../../human/pages/25/0063.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 64,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0064.md",
+   "knowledge_sections": [
+    "ch03/verlauf-im-erklaerfeld",
+    "ch03/vom-chat-zur-tatsaechlichen-aktion"
+   ],
+   "human_page": "../../../human/pages/25/0064.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 65,
+   "section": "Kapitel 3 — Das Modell vergisst dich nach jeder Antwort",
+   "file": "0065.md",
+   "knowledge_sections": [
+    "ch03/belege"
+   ],
+   "human_page": "../../../human/pages/25/0065.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 66,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0066.md",
+   "knowledge_sections": [
+    "ch04/ankuendigung-ist-keine-sperre"
+   ],
+   "human_page": "../../../human/pages/25/0066.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 67,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0067.md",
+   "knowledge_sections": [
+    "ch04/ankuendigung-ist-keine-sperre",
+    "ch04/vom-text-zur-projektarbeit"
+   ],
+   "human_page": "../../../human/pages/25/0067.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 68,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0068.md",
+   "knowledge_sections": [
+    "ch04/vom-text-zur-projektarbeit"
+   ],
+   "human_page": "../../../human/pages/25/0068.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 69,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0069.md",
+   "knowledge_sections": [
+    "ch04/vom-text-zur-projektarbeit"
+   ],
+   "human_page": "../../../human/pages/25/0069.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 70,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0070.md",
+   "knowledge_sections": [
+    "ch04/werkzeugvertrag-und-implementierung"
+   ],
+   "human_page": "../../../human/pages/25/0070.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 71,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0071.md",
+   "knowledge_sections": [
+    "ch04/werkzeugvertrag-und-implementierung",
+    "ch04/aufrufkennungen-und-json"
+   ],
+   "human_page": "../../../human/pages/25/0071.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 72,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0072.md",
+   "knowledge_sections": [
+    "ch04/aufrufkennungen-und-json"
+   ],
+   "human_page": "../../../human/pages/25/0072.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 73,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0073.md",
+   "knowledge_sections": [
+    "ch04/aufrufkennungen-und-json",
+    "ch04/terminal-shell-und-prozess",
+    "ch04/runtime-ausfuehrung-und-rechte"
+   ],
+   "human_page": "../../../human/pages/25/0073.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 74,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0074.md",
+   "knowledge_sections": [
+    "ch04/runtime-ausfuehrung-und-rechte"
+   ],
+   "human_page": "../../../human/pages/25/0074.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 75,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0075.md",
+   "knowledge_sections": [
+    "ch04/runtime-ausfuehrung-und-rechte"
+   ],
+   "human_page": "../../../human/pages/25/0075.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 76,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0076.md",
+   "knowledge_sections": [
+    "ch04/runtime-ausfuehrung-und-rechte",
+    "ch04/rueckgabe-und-fortsetzungsrequest"
+   ],
+   "human_page": "../../../human/pages/25/0076.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 77,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0077.md",
+   "knowledge_sections": [
+    "ch04/rueckgabe-und-fortsetzungsrequest"
+   ],
+   "human_page": "../../../human/pages/25/0077.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 78,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0078.md",
+   "knowledge_sections": [
+    "ch04/rueckgabe-und-fortsetzungsrequest"
+   ],
+   "human_page": "../../../human/pages/25/0078.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 79,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0079.md",
+   "knowledge_sections": [
+    "ch04/fundstelle-dateiinhalt-und-diagnose",
+    "ch04/projektanweisungen-einbinden"
+   ],
+   "human_page": "../../../human/pages/25/0079.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 80,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0080.md",
+   "knowledge_sections": [
+    "ch04/projektanweisungen-einbinden"
+   ],
+   "human_page": "../../../human/pages/25/0080.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 81,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0081.md",
+   "knowledge_sections": [
+    "ch04/rundungsfehler-und-gezielte-korrektur"
+   ],
+   "human_page": "../../../human/pages/25/0081.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 82,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0082.md",
+   "knowledge_sections": [
+    "ch04/rundungsfehler-und-gezielte-korrektur"
+   ],
+   "human_page": "../../../human/pages/25/0082.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 83,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0083.md",
+   "knowledge_sections": [
+    "ch04/rundungsfehler-und-gezielte-korrektur"
+   ],
+   "human_page": "../../../human/pages/25/0083.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 84,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0084.md",
+   "knowledge_sections": [
+    "ch04/fortschritt-warten-und-abschluss"
+   ],
+   "human_page": "../../../human/pages/25/0084.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 85,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0085.md",
+   "knowledge_sections": [
+    "ch04/fortschritt-warten-und-abschluss",
+    "ch04/thinking-und-anbieteradapter"
+   ],
+   "human_page": "../../../human/pages/25/0085.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 86,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0086.md",
+   "knowledge_sections": [
+    "ch04/thinking-und-anbieteradapter"
+   ],
+   "human_page": "../../../human/pages/25/0086.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 87,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0087.md",
+   "knowledge_sections": [
+    "ch04/thinking-und-anbieteradapter",
+    "ch04/agentenbausteine-und-transfer"
+   ],
+   "human_page": "../../../human/pages/25/0087.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 88,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0088.md",
+   "knowledge_sections": [
+    "ch04/agentenbausteine-und-transfer"
+   ],
+   "human_page": "../../../human/pages/25/0088.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 89,
+   "section": "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+   "file": "0089.md",
+   "knowledge_sections": [
+    "ch04/belege-fuer-tool-und-test"
+   ],
+   "human_page": "../../../human/pages/25/0089.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 90,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0090.md",
+   "knowledge_sections": [
+    "ch05/arbeitsvertrag-statt-regelwand"
+   ],
+   "human_page": "../../../human/pages/25/0090.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 91,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0091.md",
+   "knowledge_sections": [
+    "ch05/arbeitsvertrag-statt-regelwand",
+    "ch05/offene-entscheidungen"
+   ],
+   "human_page": "../../../human/pages/25/0091.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 92,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0092.md",
+   "knowledge_sections": [
+    "ch05/offene-entscheidungen",
+    "ch05/workflows-und-agenten"
+   ],
+   "human_page": "../../../human/pages/25/0092.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 93,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0093.md",
+   "knowledge_sections": [
+    "ch05/workflows-und-agenten",
+    "ch05/nachspielbarer-lauf-und-provenienz"
+   ],
+   "human_page": "../../../human/pages/25/0093.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 94,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0094.md",
+   "knowledge_sections": [
+    "ch05/nachspielbarer-lauf-und-provenienz",
+    "ch05/arbeitsumgebung-und-werkzeugregister"
+   ],
+   "human_page": "../../../human/pages/25/0094.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 95,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0095.md",
+   "knowledge_sections": [
+    "ch05/arbeitsumgebung-und-werkzeugregister"
+   ],
+   "human_page": "../../../human/pages/25/0095.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 96,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0096.md",
+   "knowledge_sections": [
+    "ch05/arbeitsumgebung-und-werkzeugregister"
+   ],
+   "human_page": "../../../human/pages/25/0096.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 97,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0097.md",
+   "knowledge_sections": [
+    "ch05/arbeitsumgebung-und-werkzeugregister",
+    "ch05/nutzerauftrag-und-skill-katalog"
+   ],
+   "human_page": "../../../human/pages/25/0097.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 98,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0098.md",
+   "knowledge_sections": [
+    "ch05/nutzerauftrag-und-skill-katalog",
+    "ch05/c01-datei-suchen"
+   ],
+   "human_page": "../../../human/pages/25/0098.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 99,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0099.md",
+   "knowledge_sections": [
+    "ch05/c01-datei-suchen",
+    "ch05/c02-preiscode-lesen",
+    "ch05/c03-tests-lesen"
+   ],
+   "human_page": "../../../human/pages/25/0099.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 100,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0100.md",
+   "knowledge_sections": [
+    "ch05/c03-tests-lesen",
+    "ch05/c04-skill-laden"
+   ],
+   "human_page": "../../../human/pages/25/0100.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 101,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0101.md",
+   "knowledge_sections": [
+    "ch05/c04-skill-laden",
+    "ch05/c05-erste-dateiaenderung"
+   ],
+   "human_page": "../../../human/pages/25/0101.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 102,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0102.md",
+   "knowledge_sections": [
+    "ch05/c05-erste-dateiaenderung",
+    "ch05/c06-testfehler-auswerten"
+   ],
+   "human_page": "../../../human/pages/25/0102.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 103,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0103.md",
+   "knowledge_sections": [
+    "ch05/c06-testfehler-auswerten",
+    "ch05/c07-rundung-korrigieren"
+   ],
+   "human_page": "../../../human/pages/25/0103.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 104,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0104.md",
+   "knowledge_sections": [
+    "ch05/c07-rundung-korrigieren",
+    "ch05/c08-gleichen-test-wiederholen"
+   ],
+   "human_page": "../../../human/pages/25/0104.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 105,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0105.md",
+   "knowledge_sections": [
+    "ch05/c08-gleichen-test-wiederholen",
+    "ch05/belegte-abschlussantwort"
+   ],
+   "human_page": "../../../human/pages/25/0105.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 106,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0106.md",
+   "knowledge_sections": [
+    "ch05/eindeutiges-schreiben"
+   ],
+   "human_page": "../../../human/pages/25/0106.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 107,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0107.md",
+   "knowledge_sections": [
+    "ch05/eindeutiges-schreiben",
+    "ch05/kontext-fortsetzen"
+   ],
+   "human_page": "../../../human/pages/25/0107.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 108,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0108.md",
+   "knowledge_sections": [
+    "ch05/reale-beobachtungen"
+   ],
+   "human_page": "../../../human/pages/25/0108.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 109,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0109.md",
+   "knowledge_sections": [
+    "ch05/reale-beobachtungen",
+    "ch05/faehigkeitsschnittstellen"
+   ],
+   "human_page": "../../../human/pages/25/0109.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 110,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0110.md",
+   "knowledge_sections": [
+    "ch05/faehigkeitsschnittstellen",
+    "ch05/wissensbedarf-und-faehigkeit"
+   ],
+   "human_page": "../../../human/pages/25/0110.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 111,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0111.md",
+   "knowledge_sections": [
+    "ch05/skills-bei-bedarf",
+    "ch05/skillformat-und-ladeweg"
+   ],
+   "human_page": "../../../human/pages/25/0111.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 112,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0112.md",
+   "knowledge_sections": [
+    "ch05/skillformat-und-ladeweg",
+    "ch05/wissen-faehigkeit-und-befugnis"
+   ],
+   "human_page": "../../../human/pages/25/0112.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 113,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0113.md",
+   "knowledge_sections": [
+    "ch05/wissen-faehigkeit-und-befugnis",
+    "ch05/werkzeuge-dynamisch-entdecken"
+   ],
+   "human_page": "../../../human/pages/25/0113.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 114,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0114.md",
+   "knowledge_sections": [
+    "ch05/werkzeuge-dynamisch-entdecken",
+    "ch05/weitere-ki-faehigkeiten-anfordern"
+   ],
+   "human_page": "../../../human/pages/25/0114.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 115,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0115.md",
+   "knowledge_sections": [
+    "ch05/weitere-ki-faehigkeiten-anfordern",
+    "ch05/offener-runtime-loop"
+   ],
+   "human_page": "../../../human/pages/25/0115.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 116,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0116.md",
+   "knowledge_sections": [
+    "ch05/zwischenmeldungen-im-chat",
+    "ch05/nachrichtenphasen-und-ui"
+   ],
+   "human_page": "../../../human/pages/25/0116.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 117,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0117.md",
+   "knowledge_sections": [
+    "ch05/nachrichtenphasen-und-ui"
+   ],
+   "human_page": "../../../human/pages/25/0117.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 118,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0118.md",
+   "knowledge_sections": [
+    "ch05/nachrichtenphasen-und-ui",
+    "ch05/laufende-wartende-und-beendete-arbeit",
+    "ch05/verfuegbarkeitsgrenzen"
+   ],
+   "human_page": "../../../human/pages/25/0118.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 119,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0119.md",
+   "knowledge_sections": [
+    "ch05/verfuegbarkeitsgrenzen",
+    "ch05/regeln-an-den-richtigen-ort"
+   ],
+   "human_page": "../../../human/pages/25/0119.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 120,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0120.md",
+   "knowledge_sections": [
+    "ch05/regeln-an-den-richtigen-ort",
+    "ch05/replay-und-vertraege-belegen"
+   ],
+   "human_page": "../../../human/pages/25/0120.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 121,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0121.md",
+   "knowledge_sections": [
+    "ch05/replay-und-vertraege-belegen"
+   ],
+   "human_page": "../../../human/pages/25/0121.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 122,
+   "section": "Kapitel 5 — Offen, ohne dass alles offensteht",
+   "file": "0122.md",
+   "knowledge_sections": [
+    "ch05/replay-und-vertraege-belegen"
+   ],
+   "human_page": "../../../human/pages/25/0122.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 123,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0123.md",
+   "knowledge_sections": [
+    "ch06/ausgabe-und-produktstimme"
+   ],
+   "human_page": "../../../human/pages/25/0123.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 124,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0124.md",
+   "knowledge_sections": [
+    "ch06/ausgabe-und-produktstimme",
+    "ch06/produktlauf",
+    "ch06/besuchernachricht"
+   ],
+   "human_page": "../../../human/pages/25/0124.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 125,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0125.md",
+   "knowledge_sections": [
+    "ch06/besuchernachricht",
+    "ch06/vollstaendige-anfrage"
+   ],
+   "human_page": "../../../human/pages/25/0125.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 126,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0126.md",
+   "knowledge_sections": [
+    "ch06/vollstaendige-anfrage",
+    "ch06/kontextquellen"
+   ],
+   "human_page": "../../../human/pages/25/0126.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 127,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0127.md",
+   "knowledge_sections": [
+    "ch06/kontextquellen",
+    "ch06/werkzeuganforderung"
+   ],
+   "human_page": "../../../human/pages/25/0127.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 128,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0128.md",
+   "knowledge_sections": [
+    "ch06/fortsetzung-mit-wissen"
+   ],
+   "human_page": "../../../human/pages/25/0128.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 129,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0129.md",
+   "knowledge_sections": [
+    "ch06/fortsetzung-mit-wissen"
+   ],
+   "human_page": "../../../human/pages/25/0129.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 130,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0130.md",
+   "knowledge_sections": [
+    "ch06/fortsetzung-mit-wissen",
+    "ch06/antwort-und-oberflaeche"
+   ],
+   "human_page": "../../../human/pages/25/0130.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 131,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0131.md",
+   "knowledge_sections": [
+    "ch06/antwort-und-oberflaeche"
+   ],
+   "human_page": "../../../human/pages/25/0131.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 132,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0132.md",
+   "knowledge_sections": [
+    "ch06/kalibrierung"
+   ],
+   "human_page": "../../../human/pages/25/0132.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 133,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0133.md",
+   "knowledge_sections": [
+    "ch06/kalibrierung"
+   ],
+   "human_page": "../../../human/pages/25/0133.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 134,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0134.md",
+   "knowledge_sections": [
+    "ch06/wissen-skills-tools"
+   ],
+   "human_page": "../../../human/pages/25/0134.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 135,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0135.md",
+   "knowledge_sections": [
+    "ch06/wissen-skills-tools",
+    "ch06/modellwechsel"
+   ],
+   "human_page": "../../../human/pages/25/0135.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 136,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0136.md",
+   "knowledge_sections": [
+    "ch06/modellwechsel"
+   ],
+   "human_page": "../../../human/pages/25/0136.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 137,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0137.md",
+   "knowledge_sections": [
+    "ch06/modell-als-tool",
+    "ch06/oberflaechenzustand"
+   ],
+   "human_page": "../../../human/pages/25/0137.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 138,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0138.md",
+   "knowledge_sections": [
+    "ch06/button-wirkung",
+    "ch06/sinnvolle-faehigkeitsbeschreibung"
+   ],
+   "human_page": "../../../human/pages/25/0138.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 139,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0139.md",
+   "knowledge_sections": [
+    "ch06/sinnvolle-faehigkeitsbeschreibung",
+    "ch06/entscheidungen-als-typisierte-auswahl-gestalten"
+   ],
+   "human_page": "../../../human/pages/25/0139.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 140,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0140.md",
+   "knowledge_sections": [
+    "ch06/entscheidungen-als-typisierte-auswahl-gestalten",
+    "ch06/entscheidungsangebote-an-der-aufgabe-vergleichen"
+   ],
+   "human_page": "../../../human/pages/25/0140.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 141,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0141.md",
+   "knowledge_sections": [
+    "ch06/entscheidungsangebote-an-der-aufgabe-vergleichen",
+    "ch06/entscheidungen-als-typisierte-auswahl-gestalten"
+   ],
+   "human_page": "../../../human/pages/25/0141.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 142,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0142.md",
+   "knowledge_sections": [
+    "ch06/entscheidungen-als-typisierte-auswahl-gestalten"
+   ],
+   "human_page": "../../../human/pages/25/0142.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 143,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0143.md",
+   "knowledge_sections": [
+    "ch06/zahlen-im-produkt"
+   ],
+   "human_page": "../../../human/pages/25/0143.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 144,
+   "section": "Kapitel 6 — Was „96 Prozent sicher“ wirklich heißt",
+   "file": "0144.md",
+   "knowledge_sections": [
+    "ch06/zahlen-im-produkt",
+    "ch06/belege"
+   ],
+   "human_page": "../../../human/pages/25/0144.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 145,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0145.md",
+   "knowledge_sections": [
+    "ch07/hilfe-in-der-arbeit"
+   ],
+   "human_page": "../../../human/pages/25/0145.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 146,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0146.md",
+   "knowledge_sections": [
+    "ch07/hilfe-in-der-arbeit",
+    "ch07/vorhandenes-produkt"
+   ],
+   "human_page": "../../../human/pages/25/0146.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 147,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0147.md",
+   "knowledge_sections": [
+    "ch07/vorhandenes-produkt",
+    "ch07/modellbeitrag"
+   ],
+   "human_page": "../../../human/pages/25/0147.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 148,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0148.md",
+   "knowledge_sections": [
+    "ch07/modellbeitrag",
+    "ch07/rollen"
+   ],
+   "human_page": "../../../human/pages/25/0148.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 149,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0149.md",
+   "knowledge_sections": [
+    "ch07/bauabschnitt"
+   ],
+   "human_page": "../../../human/pages/25/0149.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 150,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0150.md",
+   "knowledge_sections": [
+    "ch07/bauabschnitt",
+    "ch07/sichtbares-ergebnis"
+   ],
+   "human_page": "../../../human/pages/25/0150.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 151,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0151.md",
+   "knowledge_sections": [
+    "ch07/sichtbares-ergebnis"
+   ],
+   "human_page": "../../../human/pages/25/0151.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 152,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0152.md",
+   "knowledge_sections": [
+    "ch07/kontext-und-zuordnung"
+   ],
+   "human_page": "../../../human/pages/25/0152.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 153,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0153.md",
+   "knowledge_sections": [
+    "ch07/kontext-und-zuordnung",
+    "ch07/fehler-lokalisieren"
+   ],
+   "human_page": "../../../human/pages/25/0153.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 154,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0154.md",
+   "knowledge_sections": [
+    "ch07/fehler-lokalisieren"
+   ],
+   "human_page": "../../../human/pages/25/0154.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 155,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0155.md",
+   "knowledge_sections": [
+    "ch07/fehler-lokalisieren",
+    "ch07/gegenfall"
+   ],
+   "human_page": "../../../human/pages/25/0155.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 156,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0156.md",
+   "knowledge_sections": [
+    "ch07/gegenfall",
+    "ch07/aktualisierte-eingabe"
+   ],
+   "human_page": "../../../human/pages/25/0156.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 157,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0157.md",
+   "knowledge_sections": [
+    "ch07/aktualisierte-eingabe",
+    "ch07/antwort-und-karte"
+   ],
+   "human_page": "../../../human/pages/25/0157.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 158,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0158.md",
+   "knowledge_sections": [
+    "ch07/antwort-und-karte",
+    "ch07/kasse-fuer-modellausgaben",
+    "ch07/reservierung-und-abnahme"
+   ],
+   "human_page": "../../../human/pages/25/0158.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 159,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0159.md",
+   "knowledge_sections": [
+    "ch07/reservierung-und-abnahme",
+    "ch07/naechster-ausbau"
+   ],
+   "human_page": "../../../human/pages/25/0159.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 160,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0160.md",
+   "knowledge_sections": [
+    "ch07/naechster-ausbau"
+   ],
+   "human_page": "../../../human/pages/25/0160.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 161,
+   "section": "Kapitel 7 — Ein Button statt eines Chatbots",
+   "file": "0161.md",
+   "knowledge_sections": [
+    "ch07/naechster-ausbau",
+    "ch07/belege"
+   ],
+   "human_page": "../../../human/pages/25/0161.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 162,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0162.md",
+   "knowledge_sections": [
+    "ch08/quelle-in-reichweite"
+   ],
+   "human_page": "../../../human/pages/25/0162.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 163,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0163.md",
+   "knowledge_sections": [
+    "ch08/quelle-in-reichweite",
+    "ch08/fehlende-grundlage"
+   ],
+   "human_page": "../../../human/pages/25/0163.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 164,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0164.md",
+   "knowledge_sections": [
+    "ch08/fehlende-grundlage",
+    "ch08/direkte-anleitung"
+   ],
+   "human_page": "../../../human/pages/25/0164.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 165,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0165.md",
+   "knowledge_sections": [
+    "ch08/direkte-anleitung",
+    "ch08/unbekannt-ist-ein-ergebnis"
+   ],
+   "human_page": "../../../human/pages/25/0165.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 166,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0166.md",
+   "knowledge_sections": [
+    "ch08/unbekannt-ist-ein-ergebnis",
+    "ch08/groesserer-bestand"
+   ],
+   "human_page": "../../../human/pages/25/0166.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 167,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0167.md",
+   "knowledge_sections": [
+    "ch08/groesserer-bestand",
+    "ch08/suchluecke"
+   ],
+   "human_page": "../../../human/pages/25/0167.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 168,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0168.md",
+   "knowledge_sections": [
+    "ch08/suchluecke",
+    "ch08/embedding"
+   ],
+   "human_page": "../../../human/pages/25/0168.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 169,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0169.md",
+   "knowledge_sections": [
+    "ch08/embedding"
+   ],
+   "human_page": "../../../human/pages/25/0169.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 170,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0170.md",
+   "knowledge_sections": [
+    "ch08/embedding",
+    "ch08/vorbereiten-und-suchen"
+   ],
+   "human_page": "../../../human/pages/25/0170.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 171,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0171.md",
+   "knowledge_sections": [
+    "ch08/vorbereiten-und-suchen"
+   ],
+   "human_page": "../../../human/pages/25/0171.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 172,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0172.md",
+   "knowledge_sections": [
+    "ch08/exakte-daten"
+   ],
+   "human_page": "../../../human/pages/25/0172.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 173,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0173.md",
+   "knowledge_sections": [
+    "ch08/ausschnitt"
+   ],
+   "human_page": "../../../human/pages/25/0173.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 174,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0174.md",
+   "knowledge_sections": [
+    "ch08/ausschnitt",
+    "ch08/rag-und-quellen"
+   ],
+   "human_page": "../../../human/pages/25/0174.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 175,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0175.md",
+   "knowledge_sections": [
+    "ch08/rag-und-quellen"
+   ],
+   "human_page": "../../../human/pages/25/0175.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 176,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0176.md",
+   "knowledge_sections": [
+    "ch08/rag-und-quellen"
+   ],
+   "human_page": "../../../human/pages/25/0176.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 177,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0177.md",
+   "knowledge_sections": [
+    "ch08/rag-und-quellen",
+    "ch08/handbuch-ist-kein-befehl"
+   ],
+   "human_page": "../../../human/pages/25/0177.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 178,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0178.md",
+   "knowledge_sections": [
+    "ch08/handbuch-ist-kein-befehl",
+    "ch08/verfuegbarkeit"
+   ],
+   "human_page": "../../../human/pages/25/0178.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 179,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0179.md",
+   "knowledge_sections": [
+    "ch08/gezielte-faehigkeiten",
+    "ch08/kandidaten-neu-ordnen"
+   ],
+   "human_page": "../../../human/pages/25/0179.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 180,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0180.md",
+   "knowledge_sections": [
+    "ch08/kandidaten-neu-ordnen",
+    "ch08/diagnose-und-transfer"
+   ],
+   "human_page": "../../../human/pages/25/0180.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 181,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0181.md",
+   "knowledge_sections": [
+    "ch08/diagnose-und-transfer",
+    "ch08/belege"
+   ],
+   "human_page": "../../../human/pages/25/0181.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 182,
+   "section": "Kapitel 8 — Das Handbuch, das die KI nie gelesen hat",
+   "file": "0182.md",
+   "knowledge_sections": [
+    "ch08/belege"
+   ],
+   "human_page": "../../../human/pages/25/0182.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 183,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0183.md",
+   "knowledge_sections": [
+    "ch09/tests-finden-was-man-prueft"
+   ],
+   "human_page": "../../../human/pages/25/0183.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 184,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0184.md",
+   "knowledge_sections": [
+    "ch09/tests-finden-was-man-prueft",
+    "ch09/vergleichsfrage"
+   ],
+   "human_page": "../../../human/pages/25/0184.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 185,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0185.md",
+   "knowledge_sections": [
+    "ch09/faelle"
+   ],
+   "human_page": "../../../human/pages/25/0185.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 186,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0186.md",
+   "knowledge_sections": [
+    "ch09/faelle",
+    "ch09/ausgangszustand"
+   ],
+   "human_page": "../../../human/pages/25/0186.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 187,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0187.md",
+   "knowledge_sections": [
+    "ch09/ausgangszustand",
+    "ch09/fehlerort"
+   ],
+   "human_page": "../../../human/pages/25/0187.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 188,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0188.md",
+   "knowledge_sections": [
+    "ch09/fehlerort",
+    "ch09/ursachengerechte-aenderung"
+   ],
+   "human_page": "../../../human/pages/25/0188.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 189,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0189.md",
+   "knowledge_sections": [
+    "ch09/ursachengerechte-aenderung"
+   ],
+   "human_page": "../../../human/pages/25/0189.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 190,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0190.md",
+   "knowledge_sections": [
+    "ch09/baseline",
+    "ch09/bedeutung-statt-wortlaut"
+   ],
+   "human_page": "../../../human/pages/25/0190.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 191,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0191.md",
+   "knowledge_sections": [
+    "ch09/bedeutung-statt-wortlaut",
+    "ch09/softwaregrenzen"
+   ],
+   "human_page": "../../../human/pages/25/0191.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 192,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0192.md",
+   "knowledge_sections": [
+    "ch09/softwaregrenzen",
+    "ch09/teilversuche"
+   ],
+   "human_page": "../../../human/pages/25/0192.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 193,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0193.md",
+   "knowledge_sections": [
+    "ch09/teilversuche",
+    "ch09/urteilspruefung"
+   ],
+   "human_page": "../../../human/pages/25/0193.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 194,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0194.md",
+   "knowledge_sections": [
+    "ch09/urteilspruefung",
+    "ch09/kennzahl-als-ziel",
+    "ch09/unverbrauchte-faelle"
+   ],
+   "human_page": "../../../human/pages/25/0194.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 195,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0195.md",
+   "knowledge_sections": [
+    "ch09/unverbrauchte-faelle",
+    "ch09/abwaegung"
+   ],
+   "human_page": "../../../human/pages/25/0195.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 196,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0196.md",
+   "knowledge_sections": [
+    "ch09/abwaegung",
+    "ch09/weiterarbeiten"
+   ],
+   "human_page": "../../../human/pages/25/0196.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 197,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0197.md",
+   "knowledge_sections": [
+    "ch09/weiterarbeiten"
+   ],
+   "human_page": "../../../human/pages/25/0197.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 198,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0198.md",
+   "knowledge_sections": [
+    "ch09/weiterarbeiten",
+    "ch09/belege"
+   ],
+   "human_page": "../../../human/pages/25/0198.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 199,
+   "section": "Kapitel 9 — Ein gelungener Versuch beweist gar nichts",
+   "file": "0199.md",
+   "knowledge_sections": [
+    "ch09/belege"
+   ],
+   "human_page": "../../../human/pages/25/0199.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 200,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0200.md",
+   "knowledge_sections": [
+    "ch10/verlorene-bestaetigung"
+   ],
+   "human_page": "../../../human/pages/25/0200.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 201,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0201.md",
+   "knowledge_sections": [
+    "ch10/verlorene-bestaetigung",
+    "ch10/vorhandener-schreibpfad"
+   ],
+   "human_page": "../../../human/pages/25/0201.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 202,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0202.md",
+   "knowledge_sections": [
+    "ch10/vorhandener-schreibpfad",
+    "ch10/fehler-nachstellen"
+   ],
+   "human_page": "../../../human/pages/25/0202.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 203,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0203.md",
+   "knowledge_sections": [
+    "ch10/fehler-nachstellen"
+   ],
+   "human_page": "../../../human/pages/25/0203.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 204,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0204.md",
+   "knowledge_sections": [
+    "ch10/reconciliation"
+   ],
+   "human_page": "../../../human/pages/25/0204.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 205,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0205.md",
+   "knowledge_sections": [
+    "ch10/reconciliation",
+    "ch10/idempotenz"
+   ],
+   "human_page": "../../../human/pages/25/0205.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 206,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0206.md",
+   "knowledge_sections": [
+    "ch10/idempotenz",
+    "ch10/idempotente-werkzeuge",
+    "ch10/gleichzeitige-reservierung"
+   ],
+   "human_page": "../../../human/pages/25/0206.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 207,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0207.md",
+   "knowledge_sections": [
+    "ch10/gleichzeitige-reservierung"
+   ],
+   "human_page": "../../../human/pages/25/0207.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 208,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0208.md",
+   "knowledge_sections": [
+    "ch10/gleichzeitige-reservierung",
+    "ch10/laufender-vorschlag"
+   ],
+   "human_page": "../../../human/pages/25/0208.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 209,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0209.md",
+   "knowledge_sections": [
+    "ch10/laufender-vorschlag",
+    "ch10/hintergrundauftrag"
+   ],
+   "human_page": "../../../human/pages/25/0209.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 210,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0210.md",
+   "knowledge_sections": [
+    "ch10/abbrechen",
+    "ch10/wiederholungen"
+   ],
+   "human_page": "../../../human/pages/25/0210.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 211,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0211.md",
+   "knowledge_sections": [
+    "ch10/wiederholungen",
+    "ch10/laufzeit-und-kosten"
+   ],
+   "human_page": "../../../human/pages/25/0211.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 212,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0212.md",
+   "knowledge_sections": [
+    "ch10/laufzeit-und-kosten",
+    "ch10/ausfallweg"
+   ],
+   "human_page": "../../../human/pages/25/0212.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 213,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0213.md",
+   "knowledge_sections": [
+    "ch10/ausfallweg",
+    "ch10/aenderungsstand",
+    "ch10/schrittweise-einfuehren"
+   ],
+   "human_page": "../../../human/pages/25/0213.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 214,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0214.md",
+   "knowledge_sections": [
+    "ch10/schrittweise-einfuehren",
+    "ch10/transfer"
+   ],
+   "human_page": "../../../human/pages/25/0214.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 215,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0215.md",
+   "knowledge_sections": [
+    "ch10/transfer"
+   ],
+   "human_page": "../../../human/pages/25/0215.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 216,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0216.md",
+   "knowledge_sections": [
+    "ch10/transfer",
+    "ch10/belege"
+   ],
+   "human_page": "../../../human/pages/25/0216.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 217,
+   "section": "Kapitel 10 — Gespeichert, aber nicht bestätigt",
+   "file": "0217.md",
+   "knowledge_sections": [
+    "ch10/belege"
+   ],
+   "human_page": "../../../human/pages/25/0217.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 218,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0218.md",
+   "knowledge_sections": [
+    "ch11/eigene-umgebung-statt-werbeversprechen"
+   ],
+   "human_page": "../../../human/pages/25/0218.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 219,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0219.md",
+   "knowledge_sections": [
+    "ch11/eigene-umgebung-statt-werbeversprechen",
+    "ch11/vom-mikrofon-zum-transkript"
+   ],
+   "human_page": "../../../human/pages/25/0219.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 220,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0220.md",
+   "knowledge_sections": [
+    "ch11/vom-mikrofon-zum-transkript",
+    "ch11/transkripte-in-die-anwendung-uebernehmen"
+   ],
+   "human_page": "../../../human/pages/25/0220.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 221,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0221.md",
+   "knowledge_sections": [
+    "ch11/transkripte-in-die-anwendung-uebernehmen",
+    "ch11/originalsignale-fuer-die-aufgabe-erhalten"
+   ],
+   "human_page": "../../../human/pages/25/0221.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 222,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0222.md",
+   "knowledge_sections": [
+    "ch11/originalsignale-fuer-die-aufgabe-erhalten",
+    "ch11/unsichere-woerter-praezise-bearbeiten"
+   ],
+   "human_page": "../../../human/pages/25/0222.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 223,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0223.md",
+   "knowledge_sections": [
+    "ch11/unsichere-woerter-praezise-bearbeiten",
+    "ch11/antworttext-in-hoerbare-sprache-ueberfuehren"
+   ],
+   "human_page": "../../../human/pages/25/0223.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 224,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0224.md",
+   "knowledge_sections": [
+    "ch11/antworttext-in-hoerbare-sprache-ueberfuehren",
+    "ch11/bilder-und-videos-als-eingabe-verarbeiten",
+    "ch11/beobachtung-im-bild"
+   ],
+   "human_page": "../../../human/pages/25/0224.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 225,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0225.md",
+   "knowledge_sections": [
+    "ch11/beobachtung-im-bild"
+   ],
+   "human_page": "../../../human/pages/25/0225.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 226,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0226.md",
+   "knowledge_sections": [
+    "ch11/eine-bilddatei-erzeugen-und-bereitstellen"
+   ],
+   "human_page": "../../../human/pages/25/0226.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 227,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0227.md",
+   "knowledge_sections": [
+    "ch11/eine-bilddatei-erzeugen-und-bereitstellen"
+   ],
+   "human_page": "../../../human/pages/25/0227.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 228,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0228.md",
+   "knowledge_sections": [
+    "ch11/vorhandene-bilder-kontrolliert-bearbeiten"
+   ],
+   "human_page": "../../../human/pages/25/0228.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 229,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0229.md",
+   "knowledge_sections": [
+    "ch11/bildfunktionen-in-ein-produkt-einbauen"
+   ],
+   "human_page": "../../../human/pages/25/0229.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 230,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0230.md",
+   "knowledge_sections": [
+    "ch11/zeitliche-konsistenz-bei-videos-pruefen"
+   ],
+   "human_page": "../../../human/pages/25/0230.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 231,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0231.md",
+   "knowledge_sections": [
+    "ch11/lange-medienauftraege-als-zustand-verwalten"
+   ],
+   "human_page": "../../../human/pages/25/0231.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 232,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0232.md",
+   "knowledge_sections": [
+    "ch11/lange-medienauftraege-als-zustand-verwalten"
+   ],
+   "human_page": "../../../human/pages/25/0232.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 233,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0233.md",
+   "knowledge_sections": [
+    "ch11/rueckkopplung-und-weltmodelle-unterscheiden"
+   ],
+   "human_page": "../../../human/pages/25/0233.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 234,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0234.md",
+   "knowledge_sections": [
+    "ch11/spezialisten-und-normale-software-kombinieren",
+    "ch11/tabellenfaelle-als-vorhersageaufgabe-formulieren",
+    "ch11/zeitreihen-mit-passendem-horizont-prognostizieren",
+    "ch11/empfehlungen-an-produktzustand-binden",
+    "ch11/bildmasken-in-die-bearbeitung-uebernehmen"
+   ],
+   "human_page": "../../../human/pages/25/0234.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 235,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0235.md",
+   "knowledge_sections": [
+    "ch11/spezialisten-und-normale-software-kombinieren",
+    "ch11/leihregal-hoert-zu"
+   ],
+   "human_page": "../../../human/pages/25/0235.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 236,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0236.md",
+   "knowledge_sections": [
+    "ch11/leihregal-hoert-zu",
+    "ch11/belege"
+   ],
+   "human_page": "../../../human/pages/25/0236.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 237,
+   "section": "Kapitel 11 — Augen, Ohren und eine Stimme",
+   "file": "0237.md",
+   "knowledge_sections": [
+    "ch11/belege"
+   ],
+   "human_page": "../../../human/pages/25/0237.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 238,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0238.md",
+   "knowledge_sections": [
+    "ch12/sperre-oder-warnung"
+   ],
+   "human_page": "../../../human/pages/25/0238.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 239,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0239.md",
+   "knowledge_sections": [
+    "ch12/sperre-oder-warnung",
+    "ch12/angekuendigt-ist-nicht-ausgefuehrt"
+   ],
+   "human_page": "../../../human/pages/25/0239.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 240,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0240.md",
+   "knowledge_sections": [
+    "ch12/angekuendigt-ist-nicht-ausgefuehrt",
+    "ch12/keine-ki-beim-oeffnen"
+   ],
+   "human_page": "../../../human/pages/25/0240.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 241,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0241.md",
+   "knowledge_sections": [
+    "ch12/keine-ki-beim-oeffnen",
+    "ch12/nachweisstufen"
+   ],
+   "human_page": "../../../human/pages/25/0241.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 242,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0242.md",
+   "knowledge_sections": [
+    "ch12/nachweisstufen",
+    "ch12/messwert-und-ursache"
+   ],
+   "human_page": "../../../human/pages/25/0242.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 243,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0243.md",
+   "knowledge_sections": [
+    "ch12/messwert-und-ursache",
+    "ch12/harte-grenzen-in-der-steuerung"
+   ],
+   "human_page": "../../../human/pages/25/0243.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 244,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0244.md",
+   "knowledge_sections": [
+    "ch12/harte-grenzen-in-der-steuerung",
+    "ch12/dieselben-fragen-anderes-produkt"
+   ],
+   "human_page": "../../../human/pages/25/0244.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 245,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0245.md",
+   "knowledge_sections": [
+    "ch12/dieselben-fragen-anderes-produkt"
+   ],
+   "human_page": "../../../human/pages/25/0245.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 246,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0246.md",
+   "knowledge_sections": [
+    "ch12/dieselben-fragen-anderes-produkt"
+   ],
+   "human_page": "../../../human/pages/25/0246.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 247,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0247.md",
+   "knowledge_sections": [
+    "ch12/dieselben-fragen-anderes-produkt",
+    "ch12/eigener-naechster-schritt"
+   ],
+   "human_page": "../../../human/pages/25/0247.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 248,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0248.md",
+   "knowledge_sections": [
+    "ch12/eigener-naechster-schritt"
+   ],
+   "human_page": "../../../human/pages/25/0248.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 249,
+   "section": "Kapitel 12 — Wenn die KI die Welt anfasst",
+   "file": "0249.md",
+   "knowledge_sections": [
+    "ch12/eigener-naechster-schritt",
+    "ch12/belege"
+   ],
+   "human_page": "../../../human/pages/25/0249.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 250,
+   "section": "Epilog — Der Brief, den du jetzt lesen kannst",
+   "file": "0250.md",
+   "knowledge_sections": [
+    "front/epilog-den-brief-lesen"
+   ],
+   "human_page": "../../../human/pages/25/0250.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 251,
+   "section": "Epilog — Der Brief, den du jetzt lesen kannst",
+   "file": "0251.md",
+   "knowledge_sections": [
+    "front/epilog-den-brief-lesen"
+   ],
+   "human_page": "../../../human/pages/25/0251.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 252,
+   "section": "Epilog — Der Brief, den du jetzt lesen kannst",
+   "file": "0252.md",
+   "knowledge_sections": [
+    "front/epilog-den-brief-lesen",
+    "front/epilog-was-bleibt"
+   ],
+   "human_page": "../../../human/pages/25/0252.md"
+  },
+  {
+   "book_id": "1",
+   "language": "de",
+   "edition_id": "25",
+   "page": 253,
+   "section": "Epilog — Der Brief, den du jetzt lesen kannst",
+   "file": "0253.md",
+   "knowledge_sections": [
+    "front/epilog-was-bleibt"
+   ],
+   "human_page": "../../../human/pages/25/0253.md"
+  }
+ ]
+}

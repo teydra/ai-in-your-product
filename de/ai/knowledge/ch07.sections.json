@@ -1,0 +1,125 @@
+[
+  {
+    "id": "ch07/hilfe-in-der-arbeit",
+    "title": "KI an der Stelle der Arbeit einbauen statt daneben",
+    "source_headings": [
+      "Kapitel 7 — Ein Button statt eines Chatbots",
+      "Maras zwei Irrtümer"
+    ],
+    "description": "KI an der Stelle der Arbeit einbauen statt als Chat daneben und Modellausgaben durch Produktregeln führen."
+  },
+  {
+    "id": "ch07/vorhandenes-produkt",
+    "title": "Vom vorhandenen Arbeitsweg ausgehen",
+    "source_headings": [
+      "Was es schon gibt"
+    ],
+    "description": "Vom normalen Produktnutzen ausgehen und die KI in einen vorhandenen Arbeitsweg einbauen."
+  },
+  {
+    "id": "ch07/modellbeitrag",
+    "title": "Interpretation, Oberfläche und verbindlichen Zustand aufteilen",
+    "source_headings": [],
+    "description": "Den Modellbeitrag von Oberfläche und verbindlicher Speicherung trennen, ohne einen Chat zu erzwingen.",
+    "source_anchors": [
+      "Ein Button: Ausrüstung vorschlagen"
+    ]
+  },
+  {
+    "id": "ch07/rollen",
+    "title": "Entwicklungs-KI und eingebautes Modell auseinanderhalten",
+    "source_headings": [
+      "Zwei KIs, zwei Aufgaben"
+    ],
+    "description": "Entwicklungsauftrag, Produktprompt und tatsächliche Fähigkeiten der beiden KI-Rollen auseinanderhalten."
+  },
+  {
+    "id": "ch07/bauabschnitt",
+    "title": "Einen vollständigen kleinen Bauabschnitt umsetzen",
+    "source_headings": [
+      "Der erste Bauauftrag"
+    ],
+    "description": "Einen kleinen vollständigen Weg von Eingabe bis bearbeitbarem Ergebnis tatsächlich anschließen."
+  },
+  {
+    "id": "ch07/sichtbares-ergebnis",
+    "title": "Gerätekarten als bearbeitbare Produktobjekte erklären",
+    "source_headings": [
+      "Was Mara auf dem Bildschirm sieht"
+    ],
+    "description": "Vorschlagskarten an Katalogdaten anbinden und offene Geräteeigenschaften verständlich anzeigen."
+  },
+  {
+    "id": "ch07/kontext-und-zuordnung",
+    "title": "Nötige Modellinformationen von internen Verwaltungsdaten trennen",
+    "source_headings": [
+      "Das Modell sieht deinen Bildschirm nicht"
+    ],
+    "description": "Modellkontext auf nötige Inhalte begrenzen; Konto-, Zugriffs- und Objektzuordnung selbst korrekt implementieren."
+  },
+  {
+    "id": "ch07/fehler-lokalisieren",
+    "title": "Den sichtbaren Fehler bis zu seiner Ursache verfolgen",
+    "source_headings": [
+      "Ein Fehler, der wie ein Modellfehler aussieht"
+    ],
+    "description": "Den Fehler zwischen Eingabe, Modellkontext, Antwort und Gerätekarte mit tatsächlichen Beobachtungen lokalisieren."
+  },
+  {
+    "id": "ch07/gegenfall",
+    "title": "Die Reparatur am ursprünglichen Fall und am Gegenfall prüfen",
+    "source_headings": [
+      "Die Reparatur muss etwas Sichtbares verändern"
+    ],
+    "description": "Die ursächliche Reparatur mit Normalfall, unbekannter Eigenschaft und sinnvoller Alternative prüfen."
+  },
+  {
+    "id": "ch07/aktualisierte-eingabe",
+    "title": "Neue Angaben mit dem aktuellen Zustand verbinden",
+    "source_headings": [
+      "Eine neue Angabe darf den Vorschlag verändern"
+    ],
+    "description": "Neue Angaben und aktuelle Auswahl verbinden; verspätete Ergebnisse nicht dem neuen Auftrag zuordnen."
+  },
+  {
+    "id": "ch07/antwort-und-karte",
+    "title": "Die Modellausgabe auf vorhandene Gegenstände begrenzen",
+    "source_headings": [
+      "Von der Antwort zur richtigen Karte"
+    ],
+    "description": "Dekodierte Modellausgaben auf erlaubte Katalogobjekte abbilden und Form von Richtigkeit unterscheiden."
+  },
+  {
+    "id": "ch07/kasse-fuer-modellausgaben",
+    "title": "Modellausgaben durch die Regeln des Produkts führen",
+    "source_headings": [],
+    "description": "Fachliche Prüfungen für Modellausgaben aus ihrer Bedeutung ableiten und mit ungültigen Ausgaben testen.",
+    "source_anchors": [
+      "Das ist die Kasse, die bei Taco Bell gefehlt hat"
+    ]
+  },
+  {
+    "id": "ch07/reservierung-und-abnahme",
+    "title": "Die gesamte Benutzerhandlung bis zum gespeicherten Ergebnis prüfen",
+    "source_headings": [
+      "Der Weg endet in der Anwendung"
+    ],
+    "description": "Den tatsächlichen Benutzerweg bis zur Speicherung und den Ausfallweg ohne KI prüfen."
+  },
+  {
+    "id": "ch07/naechster-ausbau",
+    "title": "Den nächsten Ausbau aus der offenen Aufgabe ableiten",
+    "source_headings": [
+      "Für dein eigenes Produkt"
+    ],
+    "description": "Die nächste Erweiterung aus einer offenen Informations- oder Wirkungsfrage statt aus einer Technikliste ableiten."
+  },
+  {
+    "id": "ch07/belege",
+    "title": "Architekturquellen und Nachweis des Lehrfalls unterscheiden",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Technische Sachquellen vom Nachweis des konstruierten Lehrfalls und einer echten Produktprüfung unterscheiden."
+  }
+]

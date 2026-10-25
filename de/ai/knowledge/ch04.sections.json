@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ch04/ankuendigung-ist-keine-sperre",
+    "title": "Erklären, warum ein Verbot im Prompt keine Handlung verhindert",
+    "source_headings": [
+      "Kapitel 4 — Die KI drückt keinen einzigen Knopf",
+      "Maras Lösung, die keine ist"
+    ],
+    "description": "Den Replit-Vorfall über die Arbeitsteilung erklären und Schutz in der Ausführung statt im Prompt umsetzen."
+  },
+  {
+    "id": "ch04/vom-text-zur-projektarbeit",
+    "title": "Den Unterschied zwischen einem Vorschlag und Projektarbeit erklären",
+    "source_headings": [
+      "Was einem Chatbot noch fehlt"
+    ],
+    "description": "Beim Einstieg erklären, welche konkrete Projektinformation und Ausführungsfähigkeit gegenüber einer bloßen Textantwort fehlen."
+  },
+  {
+    "id": "ch04/werkzeugvertrag-und-implementierung",
+    "title": "Eine Werkzeugbeschreibung mit einer realen Funktion verbinden",
+    "source_headings": [
+      "Die Software bietet ein Werkzeug an"
+    ],
+    "description": "Werkzeugdefinition, lesbare Description, Argumentschema und tatsächlich ausführenden Handler als zusammengehörigen Vertrag prüfen."
+  },
+  {
+    "id": "ch04/aufrufkennungen-und-json",
+    "title": "Aufruf, Argumenttext und Kennungen sauber auseinanderhalten",
+    "source_headings": [
+      "Eine Bitte, Feld für Feld"
+    ],
+    "description": "Argumentzeichenkette dekodieren und Aufrufkennung, Antwortkennung sowie interne Anwendungskennungen korrekt auseinanderhalten."
+  },
+  {
+    "id": "ch04/terminal-shell-und-prozess",
+    "title": "Vom Befehlstext zum wirklichen Prozess führen",
+    "source_headings": [],
+    "description": "Den Weg von Befehlstext über Arbeitsverzeichnis und Prozessstart zu beobachtbaren Ausgaben erklären oder implementieren.",
+    "source_anchors": [
+      "Kurz zum Befehl selbst"
+    ]
+  },
+  {
+    "id": "ch04/runtime-ausfuehrung-und-rechte",
+    "title": "Die Runtime als Verbindung zwischen Entscheidung und Wirkung bauen",
+    "source_headings": [
+      "Der Spielleiter",
+      "Die Runtime steht zwischen Bitte und Wirkung"
+    ],
+    "description": "Semantische Werkzeugwahl mit tatsächlicher Ausführung, Zugriffsprüfung und unterscheidbaren Fehler- oder Wartezuständen verbinden."
+  },
+  {
+    "id": "ch04/rueckgabe-und-fortsetzungsrequest",
+    "title": "Reale Werkzeugergebnisse in den nächsten Aufruf übernehmen",
+    "source_headings": [
+      "Das Ergebnis kommt aus dem Projekt"
+    ],
+    "description": "Die echte Werkzeugrückgabe und ihren begrenzten Belegwert in einen korrekt zugeordneten Folge-Request überführen."
+  },
+  {
+    "id": "ch04/fundstelle-dateiinhalt-und-diagnose",
+    "title": "Aus einer Fundstelle eine begründete Änderung ableiten",
+    "source_headings": [
+      "Aus dem Ergebnis entsteht der nächste Schritt"
+    ],
+    "description": "Gefundene Pfade, gelesenen Programmtext, Hypothese und begründete nächste Beobachtung im Preisfall unterscheiden."
+  },
+  {
+    "id": "ch04/projektanweisungen-einbinden",
+    "title": "Projektanweisungen aus einer Datei zu wirksamem Kontext machen",
+    "source_headings": [
+      "Projektanweisungen in AGENTS.md"
+    ],
+    "description": "Zeigen, wie Projektregeln tatsächlich gelesen, mit bestimmtem Geltungsbereich in Kontext eingebaut und von Quellenmaterial getrennt werden."
+  },
+  {
+    "id": "ch04/rundungsfehler-und-gezielte-korrektur",
+    "title": "Den Rundungsfehler kausal erklären und zielgerichtet beheben",
+    "source_headings": [
+      "Ändern, prüfen und aus dem Fehler weiterarbeiten"
+    ],
+    "description": "Die unzureichende Rundungsänderung anhand des konkreten Tests erklären und die geladene Fachregel ursächlich umsetzen."
+  },
+  {
+    "id": "ch04/fortschritt-warten-und-abschluss",
+    "title": "Einen Arbeitslauf sinnvoll fortsetzen oder beenden",
+    "source_headings": [
+      "Wann der Agent weiterarbeitet und wann er aufhört"
+    ],
+    "description": "Fortschritt, offene Arbeit, Wartezustand, Limit und belegten Abschluss für einen sinnvollen Agentenlauf unterscheiden."
+  },
+  {
+    "id": "ch04/thinking-und-anbieteradapter",
+    "title": "Schlussfolgern, Toolprotokoll und Anbieterformat getrennt erklären",
+    "source_headings": [
+      "Andere Schnittstellen, dieselbe Idee"
+    ],
+    "description": "Reasoning, sichtbaren Text und strukturierte Ausführung trennen und den tatsächlich gewählten Anbieteradapter korrekt fortsetzen."
+  },
+  {
+    "id": "ch04/agentenbausteine-und-transfer",
+    "title": "Den gebauten Zusammenhang auf ein anderes System übertragen",
+    "source_headings": [
+      "Was Mara jetzt weiß"
+    ],
+    "description": "Das Zusammenspiel von Ziel, Information, Modellentscheidung, Runtime-Wirkung und Rückgabe auf einen anderen Produktfall übertragen."
+  },
+  {
+    "id": "ch04/belege-fuer-tool-und-test",
+    "title": "Tool-Verträge, Projektregeln und ausgeführte Tests als verschiedene Belege lesen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Quellen für Tool-Formate, konkrete Hostregeln, Rundungsursache und tatsächlich ausgeführte Tests passend einordnen."
+  }
+]

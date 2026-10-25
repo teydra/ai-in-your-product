@@ -1,8 +1,11 @@
 cff-version: 1.2.0
-message: "Cite the exact language and edition once a complete book release is available."
+message: "Please cite the exact language and edition."
 type: book
-title: "AI in Your Product"
+title: "KI ins eigene Produkt. Wie Software mit KI Aufgaben übernimmt."
 authors:
   - family-names: Hees
     given-names: Stanislaus
+version: "de-25"
+date-released: "2026-10-25"
+language: de
 url: "https://github.com/teydra/ai-in-your-product"

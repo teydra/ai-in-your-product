@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ch11/eigene-umgebung-statt-werbeversprechen",
+    "title": "Medienmodelle an der eigenen Umgebung messen",
+    "source_headings": [
+      "Kapitel 11 — Augen, Ohren und eine Stimme"
+    ],
+    "description": "Medienmodelle nach Ein- und Ausgabe ordnen und an der eigenen Umgebung statt an Demos messen."
+  },
+  {
+    "id": "ch11/vom-mikrofon-zum-transkript",
+    "title": "Vom Mikrofon zum Transkript",
+    "source_headings": [
+      "Speech-to-Text",
+      "Sprache wird zur Eingabe",
+      "Warum die Spracherkennung oft vom übrigen Ablauf getrennt ist"
+    ],
+    "description": "Aufnahme, Transkription, Eingabefeld und Senden mit überprüfbarer Format- und Segmentverarbeitung verbinden."
+  },
+  {
+    "id": "ch11/transkripte-in-die-anwendung-uebernehmen",
+    "title": "Transkripte in die Anwendung übernehmen",
+    "source_headings": [
+      "Wie die App das Ergebnis erhält"
+    ],
+    "description": "Providerdaten in einen klaren Transkriptvertrag übersetzen und Herkunft, Zeitbezug sowie Korrektur gezielt erhalten."
+  },
+  {
+    "id": "ch11/originalsignale-fuer-die-aufgabe-erhalten",
+    "title": "Originalsignale für die Aufgabe erhalten",
+    "source_headings": [
+      "Multimodale Modelle",
+      "Wenn die Originalaufnahme wichtig bleibt"
+    ],
+    "description": "Die für eine Aufgabe nötigen Originalsignale wählen und multimodale Interpretation von gemessener Erkennungsqualität unterscheiden."
+  },
+  {
+    "id": "ch11/unsichere-woerter-praezise-bearbeiten",
+    "title": "Unsichere Wörter präzise bearbeiten",
+    "source_headings": [
+      "Vom Modelloutput zur sichtbaren Rückfrage"
+    ],
+    "description": "Fach/Bach-Korrekturen an Textversion, eindeutige Bereiche und eine vereinbarte Unicode-Zähleinheit binden."
+  },
+  {
+    "id": "ch11/antworttext-in-hoerbare-sprache-ueberfuehren",
+    "title": "Antworttext in hörbare Sprache überführen",
+    "source_headings": [
+      "Text-to-Speech",
+      "Eine Antwort bekommt eine Stimme"
+    ],
+    "description": "Fachlich vorbereiteten Text über Synthese und Wiedergabe in verständliche, steuerbare Audioausgabe überführen."
+  },
+  {
+    "id": "ch11/bilder-und-videos-als-eingabe-verarbeiten",
+    "title": "Bilder und Videos als Eingabe verarbeiten",
+    "source_headings": [
+      "Bildverstehen"
+    ],
+    "description": "Tatsächlich übergebene Bilder oder Videosegmente samt Auflösung, Zeitpunkt und Quellenbezug verarbeiten."
+  },
+  {
+    "id": "ch11/beobachtung-im-bild",
+    "title": "Bildbeobachtungen von Ursachen trennen",
+    "source_headings": [
+      "Ein zweiter Blick bei der Rückgabe"
+    ],
+    "description": "Bildbeobachtungen von Ursachen trennen und beide Aufnahmen nachweisbar in den Request geben."
+  },
+  {
+    "id": "ch11/eine-bilddatei-erzeugen-und-bereitstellen",
+    "title": "Eine Bilddatei erzeugen und bereitstellen",
+    "source_headings": [
+      "Bildgenerierungsmodelle",
+      "Was das Modell dabei leistet",
+      "Ein Bildauftrag an OpenAI"
+    ],
+    "description": "Gelernte Bilderzeugung und OpenAI-Images-Vertrag erklären; Base64-Daten in eine tatsächlich verfügbare, prüfbare Bilddatei überführen."
+  },
+  {
+    "id": "ch11/vorhandene-bilder-kontrolliert-bearbeiten",
+    "title": "Vorhandene Bilder kontrolliert bearbeiten",
+    "source_headings": [
+      "Google: Bild und Auftrag gemeinsam senden"
+    ],
+    "description": "Ausgangsbild und Änderungsauftrag im Gemini-Interactions-Vertrag verbinden, typisierte REST-Bildinhalte auslesen und Erhalt sowie Versionen prüfen."
+  },
+  {
+    "id": "ch11/bildfunktionen-in-ein-produkt-einbauen",
+    "title": "Bildfunktionen in ein vorhandenes Produkt einbauen",
+    "source_headings": [
+      "Welche Produkte damit möglich werden"
+    ],
+    "description": "Motivänderung und Bildflächenerweiterung an Shopify-/Photoshop-Funktionen erklären und mit Medienauswahl, Varianten, Layout und tatsächlicher Übernahme verbinden."
+  },
+  {
+    "id": "ch11/zeitliche-konsistenz-bei-videos-pruefen",
+    "title": "Zeitliche Konsistenz bei Videos prüfen",
+    "source_headings": [
+      "Videogenerierungsmodelle"
+    ],
+    "description": "Handlung, Motiverhalt und Filmzeit einer Videogenerierung erklären und vollständige Sequenzen von gezeichneten Lehrbildern unterscheiden."
+  },
+  {
+    "id": "ch11/lange-medienauftraege-als-zustand-verwalten",
+    "title": "Lange Medienaufträge als Zustand verwalten",
+    "source_headings": [
+      "Runway: aus einem Startbild wird ein Clip",
+      "Wie schnell sich die Felder ändern"
+    ],
+    "description": "Asynchrone Medienaufträge über Kennung, Statusabfrage und gesicherte Ergebnisdatei verwalten; keine abgeschalteten Vorschauwege verwenden."
+  },
+  {
+    "id": "ch11/rueckkopplung-und-weltmodelle-unterscheiden",
+    "title": "Rückkopplung und Weltmodelle unterscheiden",
+    "source_headings": [
+      "Weitere Modellarten",
+      "World Models: eine Welt, die reagiert"
+    ],
+    "description": "Genie 3 und Project Genie über Zustand, Handlung und nächste Ansicht erklären und generierte Anschlussfähigkeit von verlässlicher Simulation unterscheiden."
+  },
+  {
+    "id": "ch11/spezialisten-und-normale-software-kombinieren",
+    "title": "Spezialisten und normale Software kombinieren",
+    "source_headings": [
+      "Weitere Spezialisten für dein Produkt"
+    ],
+    "description": "Machine Learning als Oberbegriff einordnen und spezialisierte Ergebnisse mit normalen Softwarefunktionen an klaren Datenübergaben kombinieren."
+  },
+  {
+    "id": "ch11/tabellenfaelle-als-vorhersageaufgabe-formulieren",
+    "title": "Tabellenfälle als Vorhersageaufgabe formulieren",
+    "source_headings": [
+      "Tabellen · TabPFN-3.5 · Prior Labs"
+    ],
+    "description": "Datenzeile, Zielwert und zum Vorhersagezeitpunkt bekannte Merkmale bestimmen; Leckage vermeiden und Schätzung gegen eine passende Ausgangslösung prüfen."
+  },
+  {
+    "id": "ch11/zeitreihen-mit-passendem-horizont-prognostizieren",
+    "title": "Zeitreihen mit passendem Horizont prognostizieren",
+    "source_headings": [
+      "Prognosen · Chronos-2 · Amazon"
+    ],
+    "description": "Zeitbezug, Messabstand, Horizont und bekannte Zusatzvariablen für Prognosen verbinden; historische Prüfung und tatsächliche Warenplanung auseinanderhalten."
+  },
+  {
+    "id": "ch11/empfehlungen-an-produktzustand-binden",
+    "title": "Empfehlungen an den tatsächlichen Produktzustand binden",
+    "source_headings": [
+      "Empfehlungen · Amazon Personalize · AWS"
+    ],
+    "description": "Personalisierte oder artikelbezogene Vorschläge mit Katalog, Voraussetzungen, Verfügbarkeit und beurteilbaren Produktzielen verbinden."
+  },
+  {
+    "id": "ch11/bildmasken-in-die-bearbeitung-uebernehmen",
+    "title": "Bildmasken in eine Bearbeitung übernehmen",
+    "source_headings": [
+      "Bildbereiche · SAM 3.1 · Meta"
+    ],
+    "description": "Box, Maske, Bildversion, Koordinaten und zeitliche Objektidentität in eine tatsächliche Bild- oder Videobearbeitung überführen."
+  },
+  {
+    "id": "ch11/leihregal-hoert-zu",
+    "title": "Eine Spracheingabe am Ausgaberegal verantwortlich bauen",
+    "source_headings": [
+      "Leihregal hört zu"
+    ],
+    "description": "Eine Spracheingabe mit sichtbarer Bestätigung, begrenzter Aufbewahrung und echten Testaufnahmen bauen; Produktfotos nicht erfinden."
+  },
+  {
+    "id": "ch11/belege",
+    "title": "Medienangaben mit Datum und Dokumentation belegen",
+    "source_headings": [
+      "Quellen und Hinweise"
+    ],
+    "description": "Medienfälle und Modellangaben mit Datum, Dokumentation und Lizenzhinweis belegen."
+  }
+]
