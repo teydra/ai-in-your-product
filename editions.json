@@ -34,8 +34,22 @@
         }
       },
       "release": "https://github.com/teydra/ai-in-your-product/releases/tag/de-25",
+      "website": {
+        "book": "https://stanislaushees.com/b/1/",
+        "read_online": "https://stanislaushees.com/b/1/lesen/",
+        "page_url_pattern": "https://stanislaushees.com/b/1/25/{page}/",
+        "page_url_example": "https://stanislaushees.com/b/1/25/92/",
+        "human_pdf": "https://stanislaushees.com/b/1/downloads/KI_ins_eigene_Produkt_Ausgabe25.pdf",
+        "human_and_ai_zip": "https://stanislaushees.com/b/1/downloads/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip",
+        "live_since": "2026-10-27",
+        "note": "Each printed page carries a QR code that opens its companion page book/1/edition/25/page on the author's website."
+      },
+      "print": {
+        "status": "paperback_in_preparation",
+        "note": "A paperback (A5, 254 physical pages) is being prepared; a proof copy has not been printed yet. The published digital edition does not change."
+      },
       "isbn": null,
-      "notes": "ISBN noch nicht vergeben; das Impressum zeigt einen Platzhalter. Druckgeometrie (Rückenbreite) noch offen."
+      "notes": "ISBN noch nicht vergeben; das Impressum zeigt einen Platzhalter. Druckgeometrie (Rückenbreite) noch offen. Website-Fassung seit 27.10.2026 unter stanislaushees.com/b/1/ live; jede Seite unter /b/1/25/<Seite>/."
     }
   ],
   "availability": [

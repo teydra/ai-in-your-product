@@ -2,6 +2,8 @@
   "schema_version": 2,
   "repository_name": "ai-in-your-product",
   "repository_url": "https://github.com/teydra/ai-in-your-product",
+  "website": "https://stanislaushees.com/b/1/",
+  "website_page_url_pattern": "https://stanislaushees.com/b/{book_id}/{edition_id}/{page}/",
   "book_id": "1",
   "title": "AI in Your Product",
   "titles": {
@@ -29,7 +31,9 @@
       "complete_human_download": "de/downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf",
       "complete_ai_download": "de/downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip",
       "current_edition": "25",
-      "ai_knowledge": "de/ai/knowledge/README.md"
+      "ai_knowledge": "de/ai/knowledge/README.md",
+      "website": "https://stanislaushees.com/b/1/",
+      "website_read_online": "https://stanislaushees.com/b/1/lesen/"
     },
     "en": {
       "status": "translation_planned",

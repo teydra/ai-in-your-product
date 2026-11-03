@@ -15,6 +15,7 @@ The model is one part of the system. The information it can reach, the tools it 
 | | German (edition 25) |
 | --- | --- |
 | Read online | [Table of contents](de/human/CONTENTS.md) · [all 253 pages](de/human/pages/25/README.md) |
+| On the website | [stanislaushees.com/b/1](https://stanislaushees.com/b/1/) · [read in the browser](https://stanislaushees.com/b/1/lesen/) · one companion page per book page, e.g. [page 92](https://stanislaushees.com/b/1/25/92/) (`/b/1/25/<page>/`, the target of the QR code printed on each page) |
 | Download | [PDF](de/downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf) · [human and AI package (ZIP)](de/downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip) |
 | For your AI assistant | [AI edition](de/ai/README.md) · [one AI page per book page](de/ai/pages/25/README.md) · [knowledge catalogue](de/ai/knowledge/KNOWLEDGE.md) |
 
@@ -35,7 +36,7 @@ The human edition is for reading and understanding. The AI edition gives an assi
 - [Examples, prompts, templates and glossary](resources/README.md).
 - [Corrections](CORRECTIONS.md).
 
-Everything is downloadable without an account or paid login. [book.json](book.json) and [editions.json](editions.json) provide machine-readable discovery.
+The book also lives on the author's website: [stanislaushees.com/b/1](https://stanislaushees.com/b/1/) offers the same edition for reading in the browser, and every page has a companion address `https://stanislaushees.com/b/1/25/<page>/` (book 1, edition 25, page) that the printed QR codes open. Everything is downloadable without an account or paid login. [book.json](book.json) and [editions.json](editions.json) provide machine-readable discovery.
 
 ## Who this is for
 
