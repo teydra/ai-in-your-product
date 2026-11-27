@@ -9,4 +9,4 @@ Light background, green typography, title **KI ins eigene Produkt**, by Stanisla
 | Spine | [PDF](spine-de.pdf) | [PNG](spine-de.png) |
 | Full wrap | [PDF](wrap-de.pdf) | [PNG](wrap-de.png) |
 
-The back-cover questions point to pages 92, 109, 132 and 164 of German edition 25. The 12 mm spine is a working size; the final spine width follows from the printer and paper of the print edition. The cover is not the complete book download: see [Downloads](../../DOWNLOADS.md).
+The back-cover questions point to pages 92, 109, 132 and 164 of German editions 25 and 26. The 12 mm spine is a working size; the final spine width follows from the printer and paper of the print edition. The cover is not the complete book download: see [Downloads](../../DOWNLOADS.md).

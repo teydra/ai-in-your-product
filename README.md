@@ -10,20 +10,20 @@ The model is one part of the system. The information it can reach, the tools it 
 
 ## The German book is here
 
-**Edition 25 · 253 pages · prologue, introduction, twelve chapters and epilogue.** Every page is available as a PDF, as readable text, and with a matching page for your AI assistant.
+**Edition 26 · 253 pages · prologue, introduction, twelve chapters and epilogue.** Every page is available as a PDF, as readable text, and with a matching page for your AI assistant.
 
-| | German (edition 25) |
+| | German (edition 26) |
 | --- | --- |
-| Read online | [Table of contents](de/human/CONTENTS.md) · [all 253 pages](de/human/pages/25/README.md) |
-| On the website | [stanislaushees.com/b/1](https://stanislaushees.com/b/1/) · [read in the browser](https://stanislaushees.com/b/1/lesen/) · one companion page per book page, e.g. [page 92](https://stanislaushees.com/b/1/25/92/) (`/b/1/25/<page>/`, the target of the QR code printed on each page) |
-| Download | [PDF](de/downloads/25/KI_ins_eigene_Produkt_Ausgabe25.pdf) · [human and AI package (ZIP)](de/downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip) |
-| For your AI assistant | [AI edition](de/ai/README.md) · [one AI page per book page](de/ai/pages/25/README.md) · [knowledge catalogue](de/ai/knowledge/KNOWLEDGE.md) |
+| Read online | [Table of contents](de/human/CONTENTS.md) · [all 253 pages](de/human/pages/26/README.md) |
+| On the website | [stanislaushees.com/b/1](https://stanislaushees.com/b/1/) · [read in the browser](https://stanislaushees.com/b/1/lesen/) · one companion page per book page, e.g. [page 92](https://stanislaushees.com/b/1/26/92/) (`/b/1/26/<page>/`, the target of the QR code printed on each page) |
+| Download | [PDF](de/downloads/26/KI_ins_eigene_Produkt_Ausgabe26.pdf) · [human and AI package (ZIP)](de/downloads/26/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe26.zip) |
+| For your AI assistant | [AI edition](de/ai/README.md) · [one AI page per book page](de/ai/pages/26/README.md) · [knowledge catalogue](de/ai/knowledge/KNOWLEDGE.md) |
 
 ## Choose a language and edition
 
 | Language | Human edition | AI edition | Availability |
 | --- | --- | --- | --- |
-| Deutsch | [Menschenversion](de/human/README.md) | [KI-Version](de/ai/README.md) | Edition 25 published |
+| Deutsch | [Menschenversion](de/human/README.md) | [KI-Version](de/ai/README.md) | Edition 26 published |
 | English | [Human edition](en/human/README.md) | [AI edition](en/ai/README.md) | Translation planned |
 
 The human edition is for reading and understanding. The AI edition gives an assistant independent reference material for explaining the book correctly and applying it to your product. Both share the key **book · language · edition · page**, so page 92 of the human edition and page 92 of the AI edition always belong together.
@@ -36,7 +36,7 @@ The human edition is for reading and understanding. The AI edition gives an assi
 - [Examples, prompts, templates and glossary](resources/README.md).
 - [Corrections](CORRECTIONS.md).
 
-The book also lives on the author's website: [stanislaushees.com/b/1](https://stanislaushees.com/b/1/) offers the same edition for reading in the browser, and every page has a companion address `https://stanislaushees.com/b/1/25/<page>/` (book 1, edition 25, page) that the printed QR codes open. Everything is downloadable without an account or paid login. [book.json](book.json) and [editions.json](editions.json) provide machine-readable discovery.
+The book also lives on the author's website: [stanislaushees.com/b/1](https://stanislaushees.com/b/1/) offers the same edition for reading in the browser, and every page has a companion address `https://stanislaushees.com/b/1/26/<page>/` (book 1, edition 26, page) that the printed QR codes open. Everything is downloadable without an account or paid login. [book.json](book.json) and [editions.json](editions.json) provide machine-readable discovery.
 
 ## Who this is for
 

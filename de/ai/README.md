@@ -1,13 +1,13 @@
 # KI-Version
 
-**KI ins eigene Produkt** von Stanislaus Hees · Ausgabe 25
+**KI ins eigene Produkt** von Stanislaus Hees · Ausgabe 26
 
 Die KI-Version ist eigenständiges Erklär- und Implementierungswissen für deinen Assistenten. Sie hilft ihm, dir eine Buchstelle richtig zu erklären und das Gelernte in deinem Produkt sauber umzusetzen. Sie ist keine Zusammenfassung der Menschenfassung; der Buchtext bleibt gesondert abrufbar.
 
 - [Einstieg für Assistenten](START.md)
 - [Gemeinsame Erklärgrundsätze](knowledge/SKILL.md) und [Wissenskatalog](knowledge/KNOWLEDGE.md) mit 209 Abschnitten
-- [Zu jeder der 253 Buchseiten die passende KI-Seite](pages/25/README.md)
-- [Komplettpaket mit Lader](../downloads/25/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe25.zip)
+- [Zu jeder der 253 Buchseiten die passende KI-Seite](pages/26/README.md)
+- [Komplettpaket mit Lader](../downloads/26/KI_ins_eigene_Produkt_Menschen_und_KI_Ausgabe26.zip)
 
 Wenn du mit einer Entwicklungs-KI arbeitest, gib ihr das Paket oder diesen Ordner mit. Dann musst du ihr nicht erst erklären, was im Buch steht.
 
